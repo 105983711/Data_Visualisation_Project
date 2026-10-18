@@ -12,7 +12,6 @@ COS30045 team project on hospitalised injuries from road crashes in Australia, u
 
 - `data/raw/` — source files and data dictionary, with source attribution and terms.
 - `data/processed/` — verified, documented exports used by the project.
-- `knime/` — team-named `.knwf` workflow and notes. Include the data used by the workflow as required for assessment.
 - `website/` — reserved for later project work; no website implementation is included in this Stand-up 1 commit.
 
 ## Project scope
