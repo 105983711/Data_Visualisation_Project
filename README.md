@@ -13,6 +13,23 @@ The dataset reports absolute hospitalisation counts. These counts are not popula
 - Mohona Tabassum Sneha
 - Iqbal Sameer
 
+## Website
+
+The accessible D3 data story is in `website/`. Serve that directory over HTTP to run it locally:
+
+```powershell
+cd website
+python -m http.server 8080
+```
+
+Then open `http://localhost:8080/`.
+
+## Data and workflow
+
+- Processed KNIME export: `data/processed/traffic_injury_analysis_views.csv`
+- Exported KNIME workflow: `data/workflow/Group28.knwf`
+- Website deployment copy: `website/data/traffic_injury_analysis_views.csv`
+
 ## Stand-up 1 materials
 
 - Design Book draft: `docs/stand-up-1/Design Book Draft.docx` and `docs/stand-up-1/Design Book Draft.pdf`
@@ -23,4 +40,5 @@ The dataset reports absolute hospitalisation counts. These counts are not popula
 
 - `data/` — project data materials
 - `docs/stand-up-1/` — Stand-up 1 documents and presentation materials
-- `website/` — reserved for later project work
+- `website/` — responsive D3 data story
+- `AI_USAGE.md` — required GenAI acknowledgement and prompt summary

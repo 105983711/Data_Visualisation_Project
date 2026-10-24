@@ -1,0 +1,870 @@
+"year","month","month_number","period_date","hospitalisations","bed_days","view_type","road_user","age_group","age_order","sex","half_year","state","first_nations_status"
+2011,"January",1,"2011-01-01","2657","12544","National Monthly",,,,,,,
+2011,"February",2,"2011-02-01","2597","11959","National Monthly",,,,,,,
+2011,"March",3,"2011-03-01","2962","13769","National Monthly",,,,,,,
+2011,"April",4,"2011-04-01","2960","13402","National Monthly",,,,,,,
+2011,"May",5,"2011-05-01","2850","14311","National Monthly",,,,,,,
+2011,"June",6,"2011-06-01","2657","13327","National Monthly",,,,,,,
+2011,"July",7,"2011-07-01","2689","11672","National Monthly",,,,,,,
+2011,"August",8,"2011-08-01","2735","12939","National Monthly",,,,,,,
+2011,"September",9,"2011-09-01","2896","13657","National Monthly",,,,,,,
+2011,"October",10,"2011-10-01","2897","12265","National Monthly",,,,,,,
+2011,"November",11,"2011-11-01","3086","13404","National Monthly",,,,,,,
+2011,"December",12,"2011-12-01","3047","12710","National Monthly",,,,,,,
+2012,"January",1,"2012-01-01","2716","12102","National Monthly",,,,,,,
+2012,"February",2,"2012-02-01","2741","11847","National Monthly",,,,,,,
+2012,"March",3,"2012-03-01","2926","12504","National Monthly",,,,,,,
+2012,"April",4,"2012-04-01","3049","12605","National Monthly",,,,,,,
+2012,"May",5,"2012-05-01","3039","14316","National Monthly",,,,,,,
+2012,"June",6,"2012-06-01","2675","11789","National Monthly",,,,,,,
+2012,"July",7,"2012-07-01","2658","12887","National Monthly",,,,,,,
+2012,"August",8,"2012-08-01","2629","12688","National Monthly",,,,,,,
+2012,"September",9,"2012-09-01","2647","11387","National Monthly",,,,,,,
+2012,"October",10,"2012-10-01","3120","13795","National Monthly",,,,,,,
+2012,"November",11,"2012-11-01","2963","13765","National Monthly",,,,,,,
+2012,"December",12,"2012-12-01","2861","13096","National Monthly",,,,,,,
+2013,"January",1,"2013-01-01","2776","12255","National Monthly",,,,,,,
+2013,"February",2,"2013-02-01","2553","10795","National Monthly",,,,,,,
+2013,"March",3,"2013-03-01","3077","12293","National Monthly",,,,,,,
+2013,"April",4,"2013-04-01","2941","12556","National Monthly",,,,,,,
+2013,"May",5,"2013-05-01","3038","13880","National Monthly",,,,,,,
+2013,"June",6,"2013-06-01","2694","11031","National Monthly",,,,,,,
+2013,"July",7,"2013-07-01","2848","11966","National Monthly",,,,,,,
+2013,"August",8,"2013-08-01","2790","11645","National Monthly",,,,,,,
+2013,"September",9,"2013-09-01","2904","12009","National Monthly",,,,,,,
+2013,"October",10,"2013-10-01","3238","14269","National Monthly",,,,,,,
+2013,"November",11,"2013-11-01","3048","12249","National Monthly",,,,,,,
+2013,"December",12,"2013-12-01","3094","11847","National Monthly",,,,,,,
+2014,"January",1,"2014-01-01","3007","13484","National Monthly",,,,,,,
+2014,"February",2,"2014-02-01","2850","11966","National Monthly",,,,,,,
+2014,"March",3,"2014-03-01","3094","11505","National Monthly",,,,,,,
+2014,"April",4,"2014-04-01","2902","12599","National Monthly",,,,,,,
+2014,"May",5,"2014-05-01","2987","11842","National Monthly",,,,,,,
+2014,"June",6,"2014-06-01","2833","11214","National Monthly",,,,,,,
+2014,"July",7,"2014-07-01","2843","12026","National Monthly",,,,,,,
+2014,"August",8,"2014-08-01","2812","11502","National Monthly",,,,,,,
+2014,"September",9,"2014-09-01","2796","10875","National Monthly",,,,,,,
+2014,"October",10,"2014-10-01","3202","12770","National Monthly",,,,,,,
+2014,"November",11,"2014-11-01","3112","11808","National Monthly",,,,,,,
+2014,"December",12,"2014-12-01","3077","12569","National Monthly",,,,,,,
+2015,"January",1,"2015-01-01","3059","11661","National Monthly",,,,,,,
+2015,"February",2,"2015-02-01","2847","10264","National Monthly",,,,,,,
+2015,"March",3,"2015-03-01","3377","12357","National Monthly",,,,,,,
+2015,"April",4,"2015-04-01","3166","12545","National Monthly",,,,,,,
+2015,"May",5,"2015-05-01","3019","12436","National Monthly",,,,,,,
+2015,"June",6,"2015-06-01","2940","11364","National Monthly",,,,,,,
+2015,"July",7,"2015-07-01","2862","17925","National Monthly",,,,,,,
+2015,"August",8,"2015-08-01","2976","19069","National Monthly",,,,,,,
+2015,"September",9,"2015-09-01","2864","18419","National Monthly",,,,,,,
+2015,"October",10,"2015-10-01","3373","18254","National Monthly",,,,,,,
+2015,"November",11,"2015-11-01","3091","18017","National Monthly",,,,,,,
+2015,"December",12,"2015-12-01","3508","20778","National Monthly",,,,,,,
+2016,"January",1,"2016-01-01","3117","15449","National Monthly",,,,,,,
+2016,"February",2,"2016-02-01","3121","18477","National Monthly",,,,,,,
+2016,"March",3,"2016-03-01","3558","19142","National Monthly",,,,,,,
+2016,"April",4,"2016-04-01","3302","18005","National Monthly",,,,,,,
+2016,"May",5,"2016-05-01","3374","19035","National Monthly",,,,,,,
+2016,"June",6,"2016-06-01","3013","18051","National Monthly",,,,,,,
+2016,"July",7,"2016-07-01","3117","18575","National Monthly",,,,,,,
+2016,"August",8,"2016-08-01","3184","18601","National Monthly",,,,,,,
+2016,"September",9,"2016-09-01","2946","16776","National Monthly",,,,,,,
+2016,"October",10,"2016-10-01","3364","19007","National Monthly",,,,,,,
+2016,"November",11,"2016-11-01","3324","18773","National Monthly",,,,,,,
+2016,"December",12,"2016-12-01","3543","19266","National Monthly",,,,,,,
+2017,"January",1,"2017-01-01","3095","17420","National Monthly",,,,,,,
+2017,"February",2,"2017-02-01","3163","15119","National Monthly",,,,,,,
+2017,"March",3,"2017-03-01","3629","19735","National Monthly",,,,,,,
+2017,"April",4,"2017-04-01","3364","16521","National Monthly",,,,,,,
+2017,"May",5,"2017-05-01","3373","19552","National Monthly",,,,,,,
+2017,"June",6,"2017-06-01","3136","17267","National Monthly",,,,,,,
+2017,"July",7,"2017-07-01","3204","16472","National Monthly",,,,,,,
+2017,"August",8,"2017-08-01","3048","17233","National Monthly",,,,,,,
+2017,"September",9,"2017-09-01","3148","18259","National Monthly",,,,,,,
+2017,"October",10,"2017-10-01","3370","19029","National Monthly",,,,,,,
+2017,"November",11,"2017-11-01","3394","17849","National Monthly",,,,,,,
+2017,"December",12,"2017-12-01","3415","18164","National Monthly",,,,,,,
+2018,"January",1,"2018-01-01","3069","16826","National Monthly",,,,,,,
+2018,"February",2,"2018-02-01","3143","16114","National Monthly",,,,,,,
+2018,"March",3,"2018-03-01","3548","18140","National Monthly",,,,,,,
+2018,"April",4,"2018-04-01","3465","16496","National Monthly",,,,,,,
+2018,"May",5,"2018-05-01","3383","17642","National Monthly",,,,,,,
+2018,"June",6,"2018-06-01","3206","17040","National Monthly",,,,,,,
+2018,"July",7,"2018-07-01","3131","17157","National Monthly",,,,,,,
+2018,"August",8,"2018-08-01","3256","19946","National Monthly",,,,,,,
+2018,"September",9,"2018-09-01","3210","16270","National Monthly",,,,,,,
+2018,"October",10,"2018-10-01","3399","17918","National Monthly",,,,,,,
+2018,"November",11,"2018-11-01","3393","18416","National Monthly",,,,,,,
+2018,"December",12,"2018-12-01","3387","16749","National Monthly",,,,,,,
+2019,"January",1,"2019-01-01","3236","16266","National Monthly",,,,,,,
+2019,"February",2,"2019-02-01","3208","15906","National Monthly",,,,,,,
+2019,"March",3,"2019-03-01","3576","17624","National Monthly",,,,,,,
+2019,"April",4,"2019-04-01","3488","18288","National Monthly",,,,,,,
+2019,"May",5,"2019-05-01","3355","20343","National Monthly",,,,,,,
+2019,"June",6,"2019-06-01","3116","15425","National Monthly",,,,,,,
+2019,"July",7,"2019-07-01","3267","17236","National Monthly",,,,,,,
+2019,"August",8,"2019-08-01","3151","17634","National Monthly",,,,,,,
+2019,"September",9,"2019-09-01","3199","17122","National Monthly",,,,,,,
+2019,"October",10,"2019-10-01","3538","17511","National Monthly",,,,,,,
+2019,"November",11,"2019-11-01","3388","18066","National Monthly",,,,,,,
+2019,"December",12,"2019-12-01","3344","17468","National Monthly",,,,,,,
+2020,"January",1,"2020-01-01","3036","16145","National Monthly",,,,,,,
+2020,"February",2,"2020-02-01","3194","16375","National Monthly",,,,,,,
+2020,"March",3,"2020-03-01","3205","17262","National Monthly",,,,,,,
+2020,"April",4,"2020-04-01","2357","14824","National Monthly",,,,,,,
+2020,"May",5,"2020-05-01","2900","13235","National Monthly",,,,,,,
+2020,"June",6,"2020-06-01","3024","14484","National Monthly",,,,,,,
+2020,"July",7,"2020-07-01","3239","16800","National Monthly",,,,,,,
+2020,"August",8,"2020-08-01","3048","14939","National Monthly",,,,,,,
+2020,"September",9,"2020-09-01","3296","16224","National Monthly",,,,,,,
+2020,"October",10,"2020-10-01","3486","15750","National Monthly",,,,,,,
+2020,"November",11,"2020-11-01","3572","15347","National Monthly",,,,,,,
+2020,"December",12,"2020-12-01","3609","16408","National Monthly",,,,,,,
+2021,"January",1,"2021-01-01","3442","15516","National Monthly",,,,,,,
+2021,"February",2,"2021-02-01","3199","15774","National Monthly",,,,,,,
+2021,"March",3,"2021-03-01","3861","19035","National Monthly",,,,,,,
+2021,"April",4,"2021-04-01","3452","17593","National Monthly",,,,,,,
+2021,"May",5,"2021-05-01","3532","18272","National Monthly",,,,,,,
+2021,"June",6,"2021-06-01","3176","19106","National Monthly",,,,,,,
+2021,"July",7,"2021-07-01","3002","15764","National Monthly",,,,,,,
+2021,"August",8,"2021-08-01","2928","16958","National Monthly",,,,,,,
+2021,"September",9,"2021-09-01","3003","15569","National Monthly",,,,,,,
+2021,"October",10,"2021-10-01","3151","14635","National Monthly",,,,,,,
+2021,"November",11,"2021-11-01","3225","14430","National Monthly",,,,,,,
+2021,"December",12,"2021-12-01","3534","16282","National Monthly",,,,,,,
+2011,,,,"214","755","National Road User","Bus occupant",,,,,,
+2011,,,,"10948","48223","National Road User","Car driver",,,,,,
+2011,,,,"4853","22132","National Road User","Car passenger",,,,,,
+2011,,,,"889","4024","National Road User","Car unknown position",,,,,,
+2011,,,,"455","2024","National Road User","Heavy transport driver",,,,,,
+2011,,,,"52","290","National Road User","Heavy transport passenger",,,,,,
+2011,,,,"55","250","National Road User","Heavy transport unknown position",,,,,,
+2011,,,,"7565","37740","National Road User","Motorcyclist",,,,,,
+2011,,,,"610","2730","National Road User","Other or unknown",,,,,,
+2011,,,,"5391","15294","National Road User","Pedal cyclist",,,,,,
+2011,,,,"2754","21233","National Road User","Pedestrian",,,,,,
+2011,,,,"247","1264","National Road User","Pick-up truck or van occupant",,,,,,
+2012,,,,"217","889","National Road User","Bus occupant",,,,,,
+2012,,,,"10806","47741","National Road User","Car driver",,,,,,
+2012,,,,"4738","20944","National Road User","Car passenger",,,,,,
+2012,,,,"895","3969","National Road User","Car unknown position",,,,,,
+2012,,,,"416","2036","National Road User","Heavy transport driver",,,,,,
+2012,,,,"47","226","National Road User","Heavy transport passenger",,,,,,
+2012,,,,"48","170","National Road User","Heavy transport unknown position",,,,,,
+2012,,,,"7728","37675","National Road User","Motorcyclist",,,,,,
+2012,,,,"563","2580","National Road User","Other or unknown",,,,,,
+2012,,,,"5621","15749","National Road User","Pedal cyclist",,,,,,
+2012,,,,"2672","19336","National Road User","Pedestrian",,,,,,
+2012,,,,"273","1466","National Road User","Pick-up truck or van occupant",,,,,,
+2013,,,,"226","978","National Road User","Bus occupant",,,,,,
+2013,,,,"10942","42684","National Road User","Car driver",,,,,,
+2013,,,,"4828","19941","National Road User","Car passenger",,,,,,
+2013,,,,"818","3231","National Road User","Car unknown position",,,,,,
+2013,,,,"415","2290","National Road User","Heavy transport driver",,,,,,
+2013,,,,"40","179","National Road User","Heavy transport passenger",,,,,,
+2013,,,,"29","73","National Road User","Heavy transport unknown position",,,,,,
+2013,,,,"8018","37724","National Road User","Motorcyclist",,,,,,
+2013,,,,"536","2485","National Road User","Other or unknown",,,,,,
+2013,,,,"6262","17344","National Road User","Pedal cyclist",,,,,,
+2013,,,,"2657","18513","National Road User","Pedestrian",,,,,,
+2013,,,,"230","1353","National Road User","Pick-up truck or van occupant",,,,,,
+2014,,,,"289","1484","National Road User","Bus occupant",,,,,,
+2014,,,,"11122","42332","National Road User","Car driver",,,,,,
+2014,,,,"4625","19867","National Road User","Car passenger",,,,,,
+2014,,,,"728","2864","National Road User","Car unknown position",,,,,,
+2014,,,,"377","1860","National Road User","Heavy transport driver",,,,,,
+2014,,,,"55","459","National Road User","Heavy transport passenger",,,,,,
+2014,,,,"48","249","National Road User","Heavy transport unknown position",,,,,,
+2014,,,,"8334","36490","National Road User","Motorcyclist",,,,,,
+2014,,,,"508","1870","National Road User","Other or unknown",,,,,,
+2014,,,,"6636","17507","National Road User","Pedal cyclist",,,,,,
+2014,,,,"2554","18077","National Road User","Pedestrian",,,,,,
+2014,,,,"239","1101","National Road User","Pick-up truck or van occupant",,,,,,
+2015,,,,"246","1467","National Road User","Bus occupant",,,,,,
+2015,,,,"12163","58428","National Road User","Car driver",,,,,,
+2015,,,,"4958","24706","National Road User","Car passenger",,,,,,
+2015,,,,"812","4752","National Road User","Car unknown position",,,,,,
+2015,,,,"444","2392","National Road User","Heavy transport driver",,,,,,
+2015,,,,"43","340","National Road User","Heavy transport passenger",,,,,,
+2015,,,,"23","221","National Road User","Heavy transport unknown position",,,,,,
+2015,,,,"8298","45145","National Road User","Motorcyclist",,,,,,
+2015,,,,"503","2552","National Road User","Other or unknown",,,,,,
+2015,,,,"6716","19062","National Road User","Pedal cyclist",,,,,,
+2015,,,,"2627","22644","National Road User","Pedestrian",,,,,,
+2015,,,,"249","1380","National Road User","Pick-up truck or van occupant",,,,,,
+2016,,,,"283","1871","National Road User","Bus occupant",,,,,,
+2016,,,,"13194","69889","National Road User","Car driver",,,,,,
+2016,,,,"5103","27116","National Road User","Car passenger",,,,,,
+2016,,,,"808","5229","National Road User","Car unknown position",,,,,,
+2016,,,,"403","3207","National Road User","Heavy transport driver",,,,,,
+2016,,,,"42","273","National Road User","Heavy transport passenger",,,,,,
+2016,,,,"39","376","National Road User","Heavy transport unknown position",,,,,,
+2016,,,,"8526","53443","National Road User","Motorcyclist",,,,,,
+2016,,,,"620","3998","National Road User","Other or unknown",,,,,,
+2016,,,,"6904","20732","National Road User","Pedal cyclist",,,,,,
+2016,,,,"2743","30773","National Road User","Pedestrian",,,,,,
+2016,,,,"298","2250","National Road User","Pick-up truck or van occupant",,,,,,
+2017,,,,"265","1577","National Road User","Bus occupant",,,,,,
+2017,,,,"13267","64017","National Road User","Car driver",,,,,,
+2017,,,,"5102","25044","National Road User","Car passenger",,,,,,
+2017,,,,"777","6593","National Road User","Car unknown position",,,,,,
+2017,,,,"447","2751","National Road User","Heavy transport driver",,,,,,
+2017,,,,"49","252","National Road User","Heavy transport passenger",,,,,,
+2017,,,,"32","102","National Road User","Heavy transport unknown position",,,,,,
+2017,,,,"8739","52923","National Road User","Motorcyclist",,,,,,
+2017,,,,"600","4121","National Road User","Other or unknown",,,,,,
+2017,,,,"7076","21615","National Road User","Pedal cyclist",,,,,,
+2017,,,,"2714","31780","National Road User","Pedestrian",,,,,,
+2017,,,,"271","1845","National Road User","Pick-up truck or van occupant",,,,,,
+2018,,,,"247","1509","National Road User","Bus occupant",,,,,,
+2018,,,,"13595","63980","National Road User","Car driver",,,,,,
+2018,,,,"5206","26852","National Road User","Car passenger",,,,,,
+2018,,,,"864","7599","National Road User","Car unknown position",,,,,,
+2018,,,,"437","2748","National Road User","Heavy transport driver",,,,,,
+2018,,,,"69","217","National Road User","Heavy transport passenger",,,,,,
+2018,,,,"47","615","National Road User","Heavy transport unknown position",,,,,,
+2018,,,,"8623","51307","National Road User","Motorcyclist",,,,,,
+2018,,,,"603","4436","National Road User","Other or unknown",,,,,,
+2018,,,,"6959","20834","National Road User","Pedal cyclist",,,,,,
+2018,,,,"2661","26722","National Road User","Pedestrian",,,,,,
+2018,,,,"279","1895","National Road User","Pick-up truck or van occupant",,,,,,
+2019,,,,"255","933","National Road User","Bus occupant",,,,,,
+2019,,,,"13482","61838","National Road User","Car driver",,,,,,
+2019,,,,"4989","24360","National Road User","Car passenger",,,,,,
+2019,,,,"797","6315","National Road User","Car unknown position",,,,,,
+2019,,,,"425","2751","National Road User","Heavy transport driver",,,,,,
+2019,,,,"52","282","National Road User","Heavy transport passenger",,,,,,
+2019,,,,"47","557","National Road User","Heavy transport unknown position",,,,,,
+2019,,,,"8924","53986","National Road User","Motorcyclist",,,,,,
+2019,,,,"620","4880","National Road User","Other or unknown",,,,,,
+2019,,,,"7302","22900","National Road User","Pedal cyclist",,,,,,
+2019,,,,"2713","28697","National Road User","Pedestrian",,,,,,
+2019,,,,"260","1390","National Road User","Pick-up truck or van occupant",,,,,,
+2020,,,,"173","845","National Road User","Bus occupant",,,,,,
+2020,,,,"12217","55181","National Road User","Car driver",,,,,,
+2020,,,,"4344","23555","National Road User","Car passenger",,,,,,
+2020,,,,"731","5734","National Road User","Car unknown position",,,,,,
+2020,,,,"412","2524","National Road User","Heavy transport driver",,,,,,
+2020,,,,"48","399","National Road User","Heavy transport passenger",,,,,,
+2020,,,,"40","222","National Road User","Heavy transport unknown position",,,,,,
+2020,,,,"8684","47748","National Road User","Motorcyclist",,,,,,
+2020,,,,"582","3678","National Road User","Other or unknown",,,,,,
+2020,,,,"8332","24699","National Road User","Pedal cyclist",,,,,,
+2020,,,,"2103","21672","National Road User","Pedestrian",,,,,,
+2020,,,,"300","1536","National Road User","Pick-up truck or van occupant",,,,,,
+2021,,,,"169","753","National Road User","Bus occupant",,,,,,
+2021,,,,"13327","61404","National Road User","Car driver",,,,,,
+2021,,,,"4495","21470","National Road User","Car passenger",,,,,,
+2021,,,,"717","6762","National Road User","Car unknown position",,,,,,
+2021,,,,"383","2473","National Road User","Heavy transport driver",,,,,,
+2021,,,,"56","237","National Road User","Heavy transport passenger",,,,,,
+2021,,,,"36","161","National Road User","Heavy transport unknown position",,,,,,
+2021,,,,"8883","49921","National Road User","Motorcyclist",,,,,,
+2021,,,,"601","4280","National Road User","Other or unknown",,,,,,
+2021,,,,"8163","26765","National Road User","Pedal cyclist",,,,,,
+2021,,,,"2334","22733","National Road User","Pedestrian",,,,,,
+2021,,,,"341","1975","National Road User","Pick-up truck or van occupant",,,,,,
+2011,,,,"278","1140","National Age and Sex",,"0-7",1,"Female",,,
+2011,,,,"441","1175","National Age and Sex",,"0-7",1,"Male",,,
+2011,,,,"779","2709","National Age and Sex",,"8-16",2,"Female",,,
+2011,,,,"1741","6044","National Age and Sex",,"8-16",2,"Male",,,
+2011,,,,"2616","8065","National Age and Sex",,"17-25",3,"Female",,,
+2011,,,,"5478","23076","National Age and Sex",,"17-25",3,"Male",,,
+2011,,,,"2501","9312","National Age and Sex",,"26-39",4,"Female",,,
+2011,,,,"5665","24502","National Age and Sex",,"26-39",4,"Male",,,
+2011,,,,"3638","14582","National Age and Sex",,"40-64",5,"Female",,,
+2011,,,,"7022","36380","National Age and Sex",,"40-64",5,"Male",,,
+2011,,,,"899","5460","National Age and Sex",,"65-74",6,"Female",,,
+2011,,,,"1069","7264","National Age and Sex",,"65-74",6,"Male",,,
+2011,,,,"1001","8418","National Age and Sex",,"75+",7,"Female",,,
+2011,,,,"905","7832","National Age and Sex",,"75+",7,"Male",,,
+2012,,,,"293","1109","National Age and Sex",,"0-7",1,"Female",,,
+2012,,,,"457","1736","National Age and Sex",,"0-7",1,"Male",,,
+2012,,,,"682","2336","National Age and Sex",,"8-16",2,"Female",,,
+2012,,,,"1645","5444","National Age and Sex",,"8-16",2,"Male",,,
+2012,,,,"2589","8062","National Age and Sex",,"17-25",3,"Female",,,
+2012,,,,"5446","21915","National Age and Sex",,"17-25",3,"Male",,,
+2012,,,,"2535","8950","National Age and Sex",,"26-39",4,"Female",,,
+2012,,,,"5716","24169","National Age and Sex",,"26-39",4,"Male",,,
+2012,,,,"3539","15880","National Age and Sex",,"40-64",5,"Female",,,
+2012,,,,"7123","34453","National Age and Sex",,"40-64",5,"Male",,,
+2012,,,,"887","5372","National Age and Sex",,"65-74",6,"Female",,,
+2012,,,,"1054","6854","National Age and Sex",,"65-74",6,"Male",,,
+2012,,,,"1068","8646","National Age and Sex",,"75+",7,"Female",,,
+2012,,,,"990","7855","National Age and Sex",,"75+",7,"Male",,,
+2013,,,,"293","865","National Age and Sex",,"0-7",1,"Female",,,
+2013,,,,"439","1079","National Age and Sex",,"0-7",1,"Male",,,
+2013,,,,"713","1864","National Age and Sex",,"8-16",2,"Female",,,
+2013,,,,"1670","5240","National Age and Sex",,"8-16",2,"Male",,,
+2013,,,,"2563","7682","National Age and Sex",,"17-25",3,"Female",,,
+2013,,,,"5289","20117","National Age and Sex",,"17-25",3,"Male",,,
+2013,,,,"2610","7886","National Age and Sex",,"26-39",4,"Female",,,
+2013,,,,"5861","22666","National Age and Sex",,"26-39",4,"Male",,,
+2013,,,,"1","3","National Age and Sex",,"26-39",4,"intersex or indeterminate or missing",,,
+2013,,,,"3839","14521","National Age and Sex",,"40-64",5,"Female",,,
+2013,,,,"7505","35729","National Age and Sex",,"40-64",5,"Male",,,
+2013,,,,"1","1","National Age and Sex",,"40-64",5,"intersex or indeterminate or missing",,,
+2013,,,,"962","5278","National Age and Sex",,"65-74",6,"Female",,,
+2013,,,,"1195","8014","National Age and Sex",,"65-74",6,"Male",,,
+2013,,,,"1062","7850","National Age and Sex",,"75+",7,"Female",,,
+2013,,,,"998","8000","National Age and Sex",,"75+",7,"Male",,,
+2014,,,,"270","1123","National Age and Sex",,"0-7",1,"Female",,,
+2014,,,,"459","1385","National Age and Sex",,"0-7",1,"Male",,,
+2014,,,,"672","1724","National Age and Sex",,"8-16",2,"Female",,,
+2014,,,,"1559","4260","National Age and Sex",,"8-16",2,"Male",,,
+2014,,,,"2646","7866","National Age and Sex",,"17-25",3,"Female",,,
+2014,,,,"5082","17281","National Age and Sex",,"17-25",3,"Male",,,
+2014,,,,"2718","7942","National Age and Sex",,"26-39",4,"Female",,,
+2014,,,,"5950","22464","National Age and Sex",,"26-39",4,"Male",,,
+2014,,,,"3874","14883","National Age and Sex",,"40-64",5,"Female",,,
+2014,,,,"7792","35425","National Age and Sex",,"40-64",5,"Male",,,
+2014,,,,"1042","5693","National Age and Sex",,"65-74",6,"Female",,,
+2014,,,,"1303","7538","National Age and Sex",,"65-74",6,"Male",,,
+2014,,,,"1072","7951","National Age and Sex",,"75+",7,"Female",,,
+2014,,,,"1075","8621","National Age and Sex",,"75+",7,"Male",,,
+2014,,,,"1","4","National Age and Sex",,"Missing",8,"Male",,,
+2015,,,,"326","1138","National Age and Sex",,"0-7",1,"Female",,,
+2015,,,,"424","1419","National Age and Sex",,"0-7",1,"Male",,,
+2015,,,,"718","2532","National Age and Sex",,"8-16",2,"Female",,,
+2015,,,,"1721","4595","National Age and Sex",,"8-16",2,"Male",,,
+2015,,,,"2774","10216","National Age and Sex",,"17-25",3,"Female",,,
+2015,,,,"5108","20305","National Age and Sex",,"17-25",3,"Male",,,
+2015,,,,"2965","10431","National Age and Sex",,"26-39",4,"Female",,,
+2015,,,,"6012","27751","National Age and Sex",,"26-39",4,"Male",,,
+2015,,,,"3991","18589","National Age and Sex",,"40-64",5,"Female",,,
+2015,,,,"8207","44635","National Age and Sex",,"40-64",5,"Male",,,
+2015,,,,"1","1","National Age and Sex",,"40-64",5,"intersex or indeterminate or missing",,,
+2015,,,,"1152","7808","National Age and Sex",,"65-74",6,"Female",,,
+2015,,,,"1313","10036","National Age and Sex",,"65-74",6,"Male",,,
+2015,,,,"1235","12246","National Age and Sex",,"75+",7,"Female",,,
+2015,,,,"1135","11387","National Age and Sex",,"75+",7,"Male",,,
+2016,,,,"312","1026","National Age and Sex",,"0-7",1,"Female",,,
+2016,,,,"424","1277","National Age and Sex",,"0-7",1,"Male",,,
+2016,,,,"713","1971","National Age and Sex",,"8-16",2,"Female",,,
+2016,,,,"1763","4567","National Age and Sex",,"8-16",2,"Male",,,
+2016,,,,"2986","10935","National Age and Sex",,"17-25",3,"Female",,,
+2016,,,,"5488","26107","National Age and Sex",,"17-25",3,"Male",,,
+2016,,,,"3202","12854","National Age and Sex",,"26-39",4,"Female",,,
+2016,,,,"6249","32376","National Age and Sex",,"26-39",4,"Male",,,
+2016,,,,"4360","22858","National Age and Sex",,"40-64",5,"Female",,,
+2016,,,,"8389","53521","National Age and Sex",,"40-64",5,"Male",,,
+2016,,,,"1183","9234","National Age and Sex",,"65-74",6,"Female",,,
+2016,,,,"1494","13491","National Age and Sex",,"65-74",6,"Male",,,
+2016,,,,"1196","15148","National Age and Sex",,"75+",7,"Female",,,
+2016,,,,"1204","13792","National Age and Sex",,"75+",7,"Male",,,
+2017,,,,"322","865","National Age and Sex",,"0-7",1,"Female",,,
+2017,,,,"418","1037","National Age and Sex",,"0-7",1,"Male",,,
+2017,,,,"736","2681","National Age and Sex",,"8-16",2,"Female",,,
+2017,,,,"1762","4757","National Age and Sex",,"8-16",2,"Male",,,
+2017,,,,"3024","9738","National Age and Sex",,"17-25",3,"Female",,,
+2017,,,,"5444","25212","National Age and Sex",,"17-25",3,"Male",,,
+2017,,,,"3145","11421","National Age and Sex",,"26-39",4,"Female",,,
+2017,,,,"6363","32806","National Age and Sex",,"26-39",4,"Male",,,
+2017,,,,"4365","21292","National Age and Sex",,"40-64",5,"Female",,,
+2017,,,,"8572","51334","National Age and Sex",,"40-64",5,"Male",,,
+2017,,,,"1258","10648","National Age and Sex",,"65-74",6,"Female",,,
+2017,,,,"1519","12217","National Age and Sex",,"65-74",6,"Male",,,
+2017,,,,"1233","15063","National Age and Sex",,"75+",7,"Female",,,
+2017,,,,"1178","13549","National Age and Sex",,"75+",7,"Male",,,
+2018,,,,"293","1157","National Age and Sex",,"0-7",1,"Female",,,
+2018,,,,"431","1374","National Age and Sex",,"0-7",1,"Male",,,
+2018,,,,"724","2206","National Age and Sex",,"8-16",2,"Female",,,
+2018,,,,"1698","4450","National Age and Sex",,"8-16",2,"Male",,,
+2018,,,,"3011","10715","National Age and Sex",,"17-25",3,"Female",,,
+2018,,,,"5297","24505","National Age and Sex",,"17-25",3,"Male",,,
+2018,,,,"1","1","National Age and Sex",,"17-25",3,"intersex or indeterminate or missing",,,
+2018,,,,"3324","12276","National Age and Sex",,"26-39",4,"Female",,,
+2018,,,,"6412","29004","National Age and Sex",,"26-39",4,"Male",,,
+2018,,,,"4362","20631","National Age and Sex",,"40-64",5,"Female",,,
+2018,,,,"8610","50218","National Age and Sex",,"40-64",5,"Male",,,
+2018,,,,"1","1","National Age and Sex",,"40-64",5,"intersex or indeterminate or missing",,,
+2018,,,,"1258","10069","National Age and Sex",,"65-74",6,"Female",,,
+2018,,,,"1618","13779","National Age and Sex",,"65-74",6,"Male",,,
+2018,,,,"1301","15164","National Age and Sex",,"75+",7,"Female",,,
+2018,,,,"1249","13164","National Age and Sex",,"75+",7,"Male",,,
+2019,,,,"282","1144","National Age and Sex",,"0-7",1,"Female",,,
+2019,,,,"422","1401","National Age and Sex",,"0-7",1,"Male",,,
+2019,,,,"711","1669","National Age and Sex",,"8-16",2,"Female",,,
+2019,,,,"1784","5171","National Age and Sex",,"8-16",2,"Male",,,
+2019,,,,"2857","9033","National Age and Sex",,"17-25",3,"Female",,,
+2019,,,,"5245","27468","National Age and Sex",,"17-25",3,"Male",,,
+2019,,,,"3388","11421","National Age and Sex",,"26-39",4,"Female",,,
+2019,,,,"6253","27689","National Age and Sex",,"26-39",4,"Male",,,
+2019,,,,"4553","20870","National Age and Sex",,"40-64",5,"Female",,,
+2019,,,,"8615","50761","National Age and Sex",,"40-64",5,"Male",,,
+2019,,,,"2","2","National Age and Sex",,"40-64",5,"intersex or indeterminate or missing",,,
+2019,,,,"1369","10098","National Age and Sex",,"65-74",6,"Female",,,
+2019,,,,"1699","13400","National Age and Sex",,"65-74",6,"Male",,,
+2019,,,,"1339","13711","National Age and Sex",,"75+",7,"Female",,,
+2019,,,,"1347","15051","National Age and Sex",,"75+",7,"Male",,,
+2020,,,,"302","802","National Age and Sex",,"0-7",1,"Female",,,
+2020,,,,"412","1339","National Age and Sex",,"0-7",1,"Male",,,
+2020,,,,"744","2192","National Age and Sex",,"8-16",2,"Female",,,
+2020,,,,"2055","5424","National Age and Sex",,"8-16",2,"Male",,,
+2020,,,,"2720","9288","National Age and Sex",,"17-25",3,"Female",,,
+2020,,,,"5249","21611","National Age and Sex",,"17-25",3,"Male",,,
+2020,,,,"2","2","National Age and Sex",,"17-25",3,"intersex or indeterminate or missing",,,
+2020,,,,"2924","8136","National Age and Sex",,"26-39",4,"Female",,,
+2020,,,,"6274","28930","National Age and Sex",,"26-39",4,"Male",,,
+2020,,,,"4","26","National Age and Sex",,"26-39",4,"intersex or indeterminate or missing",,,
+2020,,,,"3951","18533","National Age and Sex",,"40-64",5,"Female",,,
+2020,,,,"8391","45336","National Age and Sex",,"40-64",5,"Male",,,
+2020,,,,"1158","9601","National Age and Sex",,"65-74",6,"Female",,,
+2020,,,,"1620","12517","National Age and Sex",,"65-74",6,"Male",,,
+2020,,,,"1","2","National Age and Sex",,"65-74",6,"intersex or indeterminate or missing",,,
+2020,,,,"982","11240","National Age and Sex",,"75+",7,"Female",,,
+2020,,,,"1177","12814","National Age and Sex",,"75+",7,"Male",,,
+2021,,,,"291","764","National Age and Sex",,"0-7",1,"Female",,,
+2021,,,,"416","1236","National Age and Sex",,"0-7",1,"Male",,,
+2021,,,,"713","2018","National Age and Sex",,"8-16",2,"Female",,,
+2021,,,,"2150","6545","National Age and Sex",,"8-16",2,"Male",,,
+2021,,,,"2783","8838","National Age and Sex",,"17-25",3,"Female",,,
+2021,,,,"5226","24335","National Age and Sex",,"17-25",3,"Male",,,
+2021,,,,"1","1","National Age and Sex",,"17-25",3,"intersex or indeterminate or missing",,,
+2021,,,,"3237","10690","National Age and Sex",,"26-39",4,"Female",,,
+2021,,,,"6186","28798","National Age and Sex",,"26-39",4,"Male",,,
+2021,,,,"4324","19076","National Age and Sex",,"40-64",5,"Female",,,
+2021,,,,"8702","47938","National Age and Sex",,"40-64",5,"Male",,,
+2021,,,,"1223","8487","National Age and Sex",,"65-74",6,"Female",,,
+2021,,,,"1795","14605","National Age and Sex",,"65-74",6,"Male",,,
+2021,,,,"1145","11653","National Age and Sex",,"75+",7,"Female",,,
+2021,,,,"1313","13950","National Age and Sex",,"75+",7,"Male",,,
+2011,,,,"5223","26089","State Six-Monthly",,,,,"Jan-Jun","NSW",
+2011,,,,"4585","16699","State Six-Monthly",,,,,"Jan-Jun","Vic",
+2011,,,,"3017","13967","State Six-Monthly",,,,,"Jan-Jun","Qld",
+2011,,,,"1724","9384","State Six-Monthly",,,,,"Jan-Jun","WA",
+2011,,,,"1147","6446","State Six-Monthly",,,,,"Jan-Jun","SA",
+2011,,,,"247","1360","State Six-Monthly",,,,,"Jan-Jun","Tas",
+2011,,,,"283","1462","State Six-Monthly",,,,,"Jan-Jun","ACT",
+2011,,,,"213","1812","State Six-Monthly",,,,,"Jan-Jun","NT",
+2011,,,,"5395","24255","State Six-Monthly",,,,,"Jul-Dec","NSW",
+2011,,,,"4741","17225","State Six-Monthly",,,,,"Jul-Dec","Vic",
+2011,,,,"3305","14566","State Six-Monthly",,,,,"Jul-Dec","Qld",
+2011,,,,"1718","9101","State Six-Monthly",,,,,"Jul-Dec","WA",
+2011,,,,"1212","5586","State Six-Monthly",,,,,"Jul-Dec","SA",
+2011,,,,"246","1746","State Six-Monthly",,,,,"Jul-Dec","Tas",
+2011,,,,"254","1114","State Six-Monthly",,,,,"Jul-Dec","ACT",
+2011,,,,"243","1198","State Six-Monthly",,,,,"Jul-Dec","NT",
+2012,,,,"5430","23685","State Six-Monthly",,,,,"Jan-Jun","NSW",
+2012,,,,"4669","16007","State Six-Monthly",,,,,"Jan-Jun","Vic",
+2012,,,,"3166","14316","State Six-Monthly",,,,,"Jan-Jun","Qld",
+2012,,,,"1692","8820","State Six-Monthly",,,,,"Jan-Jun","WA",
+2012,,,,"1107","6097","State Six-Monthly",,,,,"Jan-Jun","SA",
+2012,,,,"271","1698","State Six-Monthly",,,,,"Jan-Jun","Tas",
+2012,,,,"313","1281","State Six-Monthly",,,,,"Jan-Jun","ACT",
+2012,,,,"215","1296","State Six-Monthly",,,,,"Jan-Jun","NT",
+2012,,,,"5691","26273","State Six-Monthly",,,,,"Jul-Dec","NSW",
+2012,,,,"3429","14238","State Six-Monthly",,,,,"Jul-Dec","Vic",
+2012,,,,"3647","16098","State Six-Monthly",,,,,"Jul-Dec","Qld",
+2012,,,,"1801","9079","State Six-Monthly",,,,,"Jul-Dec","WA",
+2012,,,,"1204","6336","State Six-Monthly",,,,,"Jul-Dec","SA",
+2012,,,,"265","1150","State Six-Monthly",,,,,"Jul-Dec","Tas",
+2012,,,,"288","985","State Six-Monthly",,,,,"Jul-Dec","ACT",
+2012,,,,"281","1659","State Six-Monthly",,,,,"Jul-Dec","NT",
+2013,,,,"5468","22885","State Six-Monthly",,,,,"Jan-Jun","NSW",
+2013,,,,"3898","15316","State Six-Monthly",,,,,"Jan-Jun","Vic",
+2013,,,,"3719","14091","State Six-Monthly",,,,,"Jan-Jun","Qld",
+2013,,,,"1802","8477","State Six-Monthly",,,,,"Jan-Jun","WA",
+2013,,,,"1063","5711","State Six-Monthly",,,,,"Jan-Jun","SA",
+2013,,,,"278","1384","State Six-Monthly",,,,,"Jan-Jun","Tas",
+2013,,,,"308","1521","State Six-Monthly",,,,,"Jan-Jun","ACT",
+2013,,,,"258","1694","State Six-Monthly",,,,,"Jan-Jun","NT",
+2013,,,,"5953","24154","State Six-Monthly",,,,,"Jul-Dec","NSW",
+2013,,,,"3886","13750","State Six-Monthly",,,,,"Jul-Dec","Vic",
+2013,,,,"4102","14928","State Six-Monthly",,,,,"Jul-Dec","Qld",
+2013,,,,"1673","8749","State Six-Monthly",,,,,"Jul-Dec","WA",
+2013,,,,"1158","5860","State Six-Monthly",,,,,"Jul-Dec","SA",
+2013,,,,"292","1507","State Six-Monthly",,,,,"Jul-Dec","Tas",
+2013,,,,"265","996","State Six-Monthly",,,,,"Jul-Dec","ACT",
+2013,,,,"303","1967","State Six-Monthly",,,,,"Jul-Dec","NT",
+2014,,,,"5622","23299","State Six-Monthly",,,,,"Jan-Jun","NSW",
+2014,,,,"4237","15278","State Six-Monthly",,,,,"Jan-Jun","Vic",
+2014,,,,"3743","14017","State Six-Monthly",,,,,"Jan-Jun","Qld",
+2014,,,,"1609","8045","State Six-Monthly",,,,,"Jan-Jun","WA",
+2014,,,,"1225","5380","State Six-Monthly",,,,,"Jan-Jun","SA",
+2014,,,,"333","1537","State Six-Monthly",,,,,"Jan-Jun","Tas",
+2014,,,,"278","1020","State Six-Monthly",,,,,"Jan-Jun","ACT",
+2014,,,,"289","1512","State Six-Monthly",,,,,"Jan-Jun","NT",
+2014,,,,"5691","22741","State Six-Monthly",,,,,"Jul-Dec","NSW",
+2014,,,,"4286","13747","State Six-Monthly",,,,,"Jul-Dec","Vic",
+2014,,,,"3982","14999","State Six-Monthly",,,,,"Jul-Dec","Qld",
+2014,,,,"1545","8544","State Six-Monthly",,,,,"Jul-Dec","WA",
+2014,,,,"1156","5816","State Six-Monthly",,,,,"Jul-Dec","SA",
+2014,,,,"313","1332","State Six-Monthly",,,,,"Jul-Dec","Tas",
+2014,,,,"264","1006","State Six-Monthly",,,,,"Jul-Dec","ACT",
+2014,,,,"286","1455","State Six-Monthly",,,,,"Jul-Dec","NT",
+2015,,,,"5621","21591","State Six-Monthly",,,,,"Jan-Jun","NSW",
+2015,,,,"4532","14915","State Six-Monthly",,,,,"Jan-Jun","Vic",
+2015,,,,"4082","13509","State Six-Monthly",,,,,"Jan-Jun","Qld",
+2015,,,,"1587","8444","State Six-Monthly",,,,,"Jan-Jun","WA",
+2015,,,,"1180","5232","State Six-Monthly",,,,,"Jan-Jun","SA",
+2015,,,,"345","1703","State Six-Monthly",,,,,"Jan-Jun","Tas",
+2015,,,,"336","1301","State Six-Monthly",,,,,"Jan-Jun","ACT",
+2015,,,,"323","1401","State Six-Monthly",,,,,"Jan-Jun","NT",
+2015,,,,"5463","32740","State Six-Monthly",,,,,"Jul-Dec","NSW",
+2015,,,,"4666","35157","State Six-Monthly",,,,,"Jul-Dec","Vic",
+2015,,,,"4224","20761","State Six-Monthly",,,,,"Jul-Dec","Qld",
+2015,,,,"1596","10001","State Six-Monthly",,,,,"Jul-Dec","WA",
+2015,,,,"1287","5935","State Six-Monthly",,,,,"Jul-Dec","SA",
+2015,,,,"332","1740","State Six-Monthly",,,,,"Jul-Dec","Tas",
+2015,,,,"364","1595","State Six-Monthly",,,,,"Jul-Dec","ACT",
+2015,,,,"368","2060","State Six-Monthly",,,,,"Jul-Dec","NT",
+2016,,,,"5776","30313","State Six-Monthly",,,,,"Jan-Jun","NSW",
+2016,,,,"5200","32950","State Six-Monthly",,,,,"Jan-Jun","Vic",
+2016,,,,"4268","19274","State Six-Monthly",,,,,"Jan-Jun","Qld",
+2016,,,,"1508","10764","State Six-Monthly",,,,,"Jan-Jun","WA",
+2016,,,,"1370","7163","State Six-Monthly",,,,,"Jan-Jun","SA",
+2016,,,,"330","1907","State Six-Monthly",,,,,"Jan-Jun","Tas",
+2016,,,,"335","1422","State Six-Monthly",,,,,"Jan-Jun","ACT",
+2016,,,,"311","1501","State Six-Monthly",,,,,"Jan-Jun","NT",
+2016,,,,"5698","30036","State Six-Monthly",,,,,"Jul-Dec","NSW",
+2016,,,,"5160","34828","State Six-Monthly",,,,,"Jul-Dec","Vic",
+2016,,,,"4434","20543","State Six-Monthly",,,,,"Jul-Dec","Qld",
+2016,,,,"1523","11138","State Six-Monthly",,,,,"Jul-Dec","WA",
+2016,,,,"1284","6032","State Six-Monthly",,,,,"Jul-Dec","SA",
+2016,,,,"327","2057","State Six-Monthly",,,,,"Jul-Dec","Tas",
+2016,,,,"319","1250","State Six-Monthly",,,,,"Jul-Dec","ACT",
+2016,,,,"398","2292","State Six-Monthly",,,,,"Jul-Dec","NT",
+2017,,,,"5600","28357","State Six-Monthly",,,,,"Jan-Jun","NSW",
+2017,,,,"5448","32919","State Six-Monthly",,,,,"Jan-Jun","Vic",
+2017,,,,"4420","19742","State Six-Monthly",,,,,"Jan-Jun","Qld",
+2017,,,,"1616","10153","State Six-Monthly",,,,,"Jan-Jun","WA",
+2017,,,,"1313","6926","State Six-Monthly",,,,,"Jan-Jun","SA",
+2017,,,,"338","1970","State Six-Monthly",,,,,"Jan-Jun","Tas",
+2017,,,,"337","1174","State Six-Monthly",,,,,"Jan-Jun","ACT",
+2017,,,,"296","1667","State Six-Monthly",,,,,"Jan-Jun","NT",
+2017,,,,"5416","31157","State Six-Monthly",,,,,"Jul-Dec","NSW",
+2017,,,,"5346","31135","State Six-Monthly",,,,,"Jul-Dec","Vic",
+2017,,,,"4714","20122","State Six-Monthly",,,,,"Jul-Dec","Qld",
+2017,,,,"1579","9007","State Six-Monthly",,,,,"Jul-Dec","WA",
+2017,,,,"1081","6853","State Six-Monthly",,,,,"Jul-Dec","SA",
+2017,,,,"321","2340","State Six-Monthly",,,,,"Jul-Dec","Tas",
+2017,,,,"295","1435","State Six-Monthly",,,,,"Jul-Dec","ACT",
+2017,,,,"407","2330","State Six-Monthly",,,,,"Jul-Dec","NT",
+2018,,,,"4917","27648","State Six-Monthly",,,,,"Jan-Jun","NSW",
+2018,,,,"5901","32331","State Six-Monthly",,,,,"Jan-Jun","Vic",
+2018,,,,"4547","19875","State Six-Monthly",,,,,"Jan-Jun","Qld",
+2018,,,,"1639","7927","State Six-Monthly",,,,,"Jan-Jun","WA",
+2018,,,,"1216","6487","State Six-Monthly",,,,,"Jan-Jun","SA",
+2018,,,,"372","1851","State Six-Monthly",,,,,"Jan-Jun","Tas",
+2018,,,,"368","1245","State Six-Monthly",,,,,"Jan-Jun","ACT",
+2018,,,,"412","2182","State Six-Monthly",,,,,"Jan-Jun","NT",
+2018,,,,"4877","31876","State Six-Monthly",,,,,"Jul-Dec","NSW",
+2018,,,,"5552","31513","State Six-Monthly",,,,,"Jul-Dec","Vic",
+2018,,,,"4834","18964","State Six-Monthly",,,,,"Jul-Dec","Qld",
+2018,,,,"1635","7153","State Six-Monthly",,,,,"Jul-Dec","WA",
+2018,,,,"1273","6171","State Six-Monthly",,,,,"Jul-Dec","SA",
+2018,,,,"409","2825","State Six-Monthly",,,,,"Jul-Dec","Tas",
+2018,,,,"344","1739","State Six-Monthly",,,,,"Jul-Dec","ACT",
+2018,,,,"420","3096","State Six-Monthly",,,,,"Jul-Dec","NT",
+2019,,,,"4989","32069","State Six-Monthly",,,,,"Jan-Jun","NSW",
+2019,,,,"5903","30669","State Six-Monthly",,,,,"Jan-Jun","Vic",
+2019,,,,"4643","19162","State Six-Monthly",,,,,"Jan-Jun","Qld",
+2019,,,,"1679","8502","State Six-Monthly",,,,,"Jan-Jun","WA",
+2019,,,,"1221","5222","State Six-Monthly",,,,,"Jan-Jun","SA",
+2019,,,,"388","2581","State Six-Monthly",,,,,"Jan-Jun","Tas",
+2019,,,,"362","1371","State Six-Monthly",,,,,"Jan-Jun","ACT",
+2019,,,,"320","1730","State Six-Monthly",,,,,"Jan-Jun","NT",
+2019,,,,"4953","30929","State Six-Monthly",,,,,"Jul-Dec","NSW",
+2019,,,,"5489","30340","State Six-Monthly",,,,,"Jul-Dec","Vic",
+2019,,,,"4872","21027","State Six-Monthly",,,,,"Jul-Dec","Qld",
+2019,,,,"1855","9320","State Six-Monthly",,,,,"Jul-Dec","WA",
+2019,,,,"1236","5581","State Six-Monthly",,,,,"Jul-Dec","SA",
+2019,,,,"320","1499","State Six-Monthly",,,,,"Jul-Dec","Tas",
+2019,,,,"303","1433","State Six-Monthly",,,,,"Jul-Dec","ACT",
+2019,,,,"336","2079","State Six-Monthly",,,,,"Jul-Dec","NT",
+2020,,,,"4191","25906","State Six-Monthly",,,,,"Jan-Jun","NSW",
+2020,,,,"5030","27014","State Six-Monthly",,,,,"Jan-Jun","Vic",
+2020,,,,"4287","17468","State Six-Monthly",,,,,"Jan-Jun","Qld",
+2020,,,,"1704","9141","State Six-Monthly",,,,,"Jan-Jun","WA",
+2020,,,,"1171","6096","State Six-Monthly",,,,,"Jan-Jun","SA",
+2020,,,,"328","1373","State Six-Monthly",,,,,"Jan-Jun","Tas",
+2020,,,,"286","1454","State Six-Monthly",,,,,"Jan-Jun","ACT",
+2020,,,,"322","1482","State Six-Monthly",,,,,"Jan-Jun","NT",
+2020,,,,"5083","32465","State Six-Monthly",,,,,"Jul-Dec","NSW",
+2020,,,,"4854","20923","State Six-Monthly",,,,,"Jul-Dec","Vic",
+2020,,,,"5514","20382","State Six-Monthly",,,,,"Jul-Dec","Qld",
+2020,,,,"1932","9647","State Six-Monthly",,,,,"Jul-Dec","WA",
+2020,,,,"1332","6084","State Six-Monthly",,,,,"Jul-Dec","SA",
+2020,,,,"450","2109","State Six-Monthly",,,,,"Jul-Dec","Tas",
+2020,,,,"343","1083","State Six-Monthly",,,,,"Jul-Dec","ACT",
+2020,,,,"465","1985","State Six-Monthly",,,,,"Jul-Dec","NT",
+2021,,,,"5005","31124","State Six-Monthly",,,,,"Jan-Jun","NSW",
+2021,,,,"5921","29551","State Six-Monthly",,,,,"Jan-Jun","Vic",
+2021,,,,"5127","20810","State Six-Monthly",,,,,"Jan-Jun","Qld",
+2021,,,,"1800","10554","State Six-Monthly",,,,,"Jan-Jun","WA",
+2021,,,,"1337","6058","State Six-Monthly",,,,,"Jan-Jun","SA",
+2021,,,,"422","2842","State Six-Monthly",,,,,"Jan-Jun","Tas",
+2021,,,,"441","1636","State Six-Monthly",,,,,"Jan-Jun","ACT",
+2021,,,,"348","1620","State Six-Monthly",,,,,"Jan-Jun","NT",
+2021,,,,"3998","23974","State Six-Monthly",,,,,"Jul-Dec","NSW",
+2021,,,,"5209","25148","State Six-Monthly",,,,,"Jul-Dec","Vic",
+2021,,,,"5320","20079","State Six-Monthly",,,,,"Jul-Dec","Qld",
+2021,,,,"1768","11734","State Six-Monthly",,,,,"Jul-Dec","WA",
+2021,,,,"1295","5794","State Six-Monthly",,,,,"Jul-Dec","SA",
+2021,,,,"383","2018","State Six-Monthly",,,,,"Jul-Dec","Tas",
+2021,,,,"299","1103","State Six-Monthly",,,,,"Jul-Dec","ACT",
+2021,,,,"362","2453","State Six-Monthly",,,,,"Jul-Dec","NT",
+2011,,,,"46","208","First Nations Age Group",,"0-7",,,"Jan-Jun",,"First Nations people"
+2011,,,,"91","529","First Nations Age Group",,"8-16",,,"Jan-Jun",,"First Nations people"
+2011,,,,"173","1123","First Nations Age Group",,"17-25",,,"Jan-Jun",,"First Nations people"
+2011,,,,"127","772","First Nations Age Group",,"26-39",,,"Jan-Jun",,"First Nations people"
+2011,,,,"109","789","First Nations Age Group",,"40-64",,,"Jan-Jun",,"First Nations people"
+2011,,,,"13","198","First Nations Age Group",,"65+",,,"Jan-Jun",,"First Nations people"
+2011,,,,"305","917","First Nations Age Group",,"0-7",,,"Jan-Jun",,"Non-Indigenous"
+2011,,,,"1173","4045","First Nations Age Group",,"8-16",,,"Jan-Jun",,"Non-Indigenous"
+2011,,,,"3674","14573","First Nations Age Group",,"17-25",,,"Jan-Jun",,"Non-Indigenous"
+2011,,,,"3762","15729","First Nations Age Group",,"26-39",,,"Jan-Jun",,"Non-Indigenous"
+2011,,,,"4930","23094","First Nations Age Group",,"40-64",,,"Jan-Jun",,"Non-Indigenous"
+2011,,,,"1800","14169","First Nations Age Group",,"65+",,,"Jan-Jun",,"Non-Indigenous"
+2011,,,,"46","107","First Nations Age Group",,"0-7",,,"Jul-Dec",,"First Nations people"
+2011,,,,"113","561","First Nations Age Group",,"8-16",,,"Jul-Dec",,"First Nations people"
+2011,,,,"162","898","First Nations Age Group",,"17-25",,,"Jul-Dec",,"First Nations people"
+2011,,,,"159","861","First Nations Age Group",,"26-39",,,"Jul-Dec",,"First Nations people"
+2011,,,,"117","453","First Nations Age Group",,"40-64",,,"Jul-Dec",,"First Nations people"
+2011,,,,"11","60","First Nations Age Group",,"65+",,,"Jul-Dec",,"First Nations people"
+2011,,,,"309","989","First Nations Age Group",,"0-7",,,"Jul-Dec",,"Non-Indigenous"
+2011,,,,"1104","3399","First Nations Age Group",,"8-16",,,"Jul-Dec",,"Non-Indigenous"
+2011,,,,"3872","13609","First Nations Age Group",,"17-25",,,"Jul-Dec",,"Non-Indigenous"
+2011,,,,"3897","15443","First Nations Age Group",,"26-39",,,"Jul-Dec",,"Non-Indigenous"
+2011,,,,"5236","24985","First Nations Age Group",,"40-64",,,"Jul-Dec",,"Non-Indigenous"
+2011,,,,"1935","12994","First Nations Age Group",,"65+",,,"Jul-Dec",,"Non-Indigenous"
+2012,,,,"35","153","First Nations Age Group",,"0-7",,,"Jan-Jun",,"First Nations people"
+2012,,,,"114","514","First Nations Age Group",,"8-16",,,"Jan-Jun",,"First Nations people"
+2012,,,,"165","1092","First Nations Age Group",,"17-25",,,"Jan-Jun",,"First Nations people"
+2012,,,,"181","890","First Nations Age Group",,"26-39",,,"Jan-Jun",,"First Nations people"
+2012,,,,"144","820","First Nations Age Group",,"40-64",,,"Jan-Jun",,"First Nations people"
+2012,,,,"9","129","First Nations Age Group",,"65+",,,"Jan-Jun",,"First Nations people"
+2012,,,,"324","1103","First Nations Age Group",,"0-7",,,"Jan-Jun",,"Non-Indigenous"
+2012,,,,"1039","3128","First Nations Age Group",,"8-16",,,"Jan-Jun",,"Non-Indigenous"
+2012,,,,"3821","13369","First Nations Age Group",,"17-25",,,"Jan-Jun",,"Non-Indigenous"
+2012,,,,"3908","14949","First Nations Age Group",,"26-39",,,"Jan-Jun",,"Non-Indigenous"
+2012,,,,"5086","23176","First Nations Age Group",,"40-64",,,"Jan-Jun",,"Non-Indigenous"
+2012,,,,"1919","13197","First Nations Age Group",,"65+",,,"Jan-Jun",,"Non-Indigenous"
+2012,,,,"46","137","First Nations Age Group",,"0-7",,,"Jul-Dec",,"First Nations people"
+2012,,,,"115","259","First Nations Age Group",,"8-16",,,"Jul-Dec",,"First Nations people"
+2012,,,,"220","1175","First Nations Age Group",,"17-25",,,"Jul-Dec",,"First Nations people"
+2012,,,,"191","1064","First Nations Age Group",,"26-39",,,"Jul-Dec",,"First Nations people"
+2012,,,,"171","949","First Nations Age Group",,"40-64",,,"Jul-Dec",,"First Nations people"
+2012,,,,"13","40","First Nations Age Group",,"65+",,,"Jul-Dec",,"First Nations people"
+2012,,,,"329","1337","First Nations Age Group",,"0-7",,,"Jul-Dec",,"Non-Indigenous"
+2012,,,,"1026","3787","First Nations Age Group",,"8-16",,,"Jul-Dec",,"Non-Indigenous"
+2012,,,,"3638","13314","First Nations Age Group",,"17-25",,,"Jul-Dec",,"Non-Indigenous"
+2012,,,,"3762","15049","First Nations Age Group",,"26-39",,,"Jul-Dec",,"Non-Indigenous"
+2012,,,,"4995","24018","First Nations Age Group",,"40-64",,,"Jul-Dec",,"Non-Indigenous"
+2012,,,,"1943","14179","First Nations Age Group",,"65+",,,"Jul-Dec",,"Non-Indigenous"
+2013,,,,"38","139","First Nations Age Group",,"0-7",,,"Jan-Jun",,"First Nations people"
+2013,,,,"122","395","First Nations Age Group",,"8-16",,,"Jan-Jun",,"First Nations people"
+2013,,,,"223","1278","First Nations Age Group",,"17-25",,,"Jan-Jun",,"First Nations people"
+2013,,,,"173","1015","First Nations Age Group",,"26-39",,,"Jan-Jun",,"First Nations people"
+2013,,,,"118","813","First Nations Age Group",,"40-64",,,"Jan-Jun",,"First Nations people"
+2013,,,,"9","23","First Nations Age Group",,"65+",,,"Jan-Jun",,"First Nations people"
+2013,,,,"296","745","First Nations Age Group",,"0-7",,,"Jan-Jun",,"Non-Indigenous"
+2013,,,,"1008","2865","First Nations Age Group",,"8-16",,,"Jan-Jun",,"Non-Indigenous"
+2013,,,,"3544","12586","First Nations Age Group",,"17-25",,,"Jan-Jun",,"Non-Indigenous"
+2013,,,,"3874","14041","First Nations Age Group",,"26-39",,,"Jan-Jun",,"Non-Indigenous"
+2013,,,,"5275","22414","First Nations Age Group",,"40-64",,,"Jan-Jun",,"Non-Indigenous"
+2013,,,,"2020","13778","First Nations Age Group",,"65+",,,"Jan-Jun",,"Non-Indigenous"
+2013,,,,"40","169","First Nations Age Group",,"0-7",,,"Jul-Dec",,"First Nations people"
+2013,,,,"120","764","First Nations Age Group",,"8-16",,,"Jul-Dec",,"First Nations people"
+2013,,,,"199","875","First Nations Age Group",,"17-25",,,"Jul-Dec",,"First Nations people"
+2013,,,,"193","1033","First Nations Age Group",,"26-39",,,"Jul-Dec",,"First Nations people"
+2013,,,,"161","996","First Nations Age Group",,"40-64",,,"Jul-Dec",,"First Nations people"
+2013,,,,"18","72","First Nations Age Group",,"65+",,,"Jul-Dec",,"First Nations people"
+2013,,,,"351","857","First Nations Age Group",,"0-7",,,"Jul-Dec",,"Non-Indigenous"
+2013,,,,"1103","2981","First Nations Age Group",,"8-16",,,"Jul-Dec",,"Non-Indigenous"
+2013,,,,"3707","12319","First Nations Age Group",,"17-25",,,"Jul-Dec",,"Non-Indigenous"
+2013,,,,"4055","13631","First Nations Age Group",,"26-39",,,"Jul-Dec",,"Non-Indigenous"
+2013,,,,"5545","24337","First Nations Age Group",,"40-64",,,"Jul-Dec",,"Non-Indigenous"
+2013,,,,"2061","13923","First Nations Age Group",,"65+",,,"Jul-Dec",,"Non-Indigenous"
+2014,,,,"49","144","First Nations Age Group",,"0-7",,,"Jan-Jun",,"First Nations people"
+2014,,,,"112","545","First Nations Age Group",,"8-16",,,"Jan-Jun",,"First Nations people"
+2014,,,,"204","807","First Nations Age Group",,"17-25",,,"Jan-Jun",,"First Nations people"
+2014,,,,"199","986","First Nations Age Group",,"26-39",,,"Jan-Jun",,"First Nations people"
+2014,,,,"150","1213","First Nations Age Group",,"40-64",,,"Jan-Jun",,"First Nations people"
+2014,,,,"14","67","First Nations Age Group",,"65+",,,"Jan-Jun",,"First Nations people"
+2014,,,,"315","749","First Nations Age Group",,"0-7",,,"Jan-Jun",,"Non-Indigenous"
+2014,,,,"959","2578","First Nations Age Group",,"8-16",,,"Jan-Jun",,"Non-Indigenous"
+2014,,,,"3548","11763","First Nations Age Group",,"17-25",,,"Jan-Jun",,"Non-Indigenous"
+2014,,,,"4070","13718","First Nations Age Group",,"26-39",,,"Jan-Jun",,"Non-Indigenous"
+2014,,,,"5558","23354","First Nations Age Group",,"40-64",,,"Jan-Jun",,"Non-Indigenous"
+2014,,,,"2128","14355","First Nations Age Group",,"65+",,,"Jan-Jun",,"Non-Indigenous"
+2014,,,,"n.p.","n.p.","First Nations Age Group",,"0-7",,,"Jul-Dec",,"First Nations people"
+2014,,,,"108","534","First Nations Age Group",,"8-16",,,"Jul-Dec",,"First Nations people"
+2014,,,,"218","964","First Nations Age Group",,"17-25",,,"Jul-Dec",,"First Nations people"
+2014,,,,"189","904","First Nations Age Group",,"26-39",,,"Jul-Dec",,"First Nations people"
+2014,,,,"164","1323","First Nations Age Group",,"40-64",,,"Jul-Dec",,"First Nations people"
+2014,,,,"n.p.","n.p.","First Nations Age Group",,"65+",,,"Jul-Dec",,"First Nations people"
+2014,,,,"n.p.","n.p.","First Nations Age Group",,"0-7",,,"Jul-Dec",,"Non-Indigenous"
+2014,,,,"1021","2210","First Nations Age Group",,"8-16",,,"Jul-Dec",,"Non-Indigenous"
+2014,,,,"3602","10868","First Nations Age Group",,"17-25",,,"Jul-Dec",,"Non-Indigenous"
+2014,,,,"4037","13826","First Nations Age Group",,"26-39",,,"Jul-Dec",,"Non-Indigenous"
+2014,,,,"5547","22968","First Nations Age Group",,"40-64",,,"Jul-Dec",,"Non-Indigenous"
+2014,,,,"n.p.","n.p.","First Nations Age Group",,"65+",,,"Jul-Dec",,"Non-Indigenous"
+2015,,,,"42","111","First Nations Age Group",,"0-7",,,"Jan-Jun",,"First Nations people"
+2015,,,,"140","390","First Nations Age Group",,"8-16",,,"Jan-Jun",,"First Nations people"
+2015,,,,"167","586","First Nations Age Group",,"17-25",,,"Jan-Jun",,"First Nations people"
+2015,,,,"195","764","First Nations Age Group",,"26-39",,,"Jan-Jun",,"First Nations people"
+2015,,,,"183","1109","First Nations Age Group",,"40-64",,,"Jan-Jun",,"First Nations people"
+2015,,,,"19","127","First Nations Age Group",,"65+",,,"Jan-Jun",,"First Nations people"
+2015,,,,"314","935","First Nations Age Group",,"0-7",,,"Jan-Jun",,"Non-Indigenous"
+2015,,,,"1066","2736","First Nations Age Group",,"8-16",,,"Jan-Jun",,"Non-Indigenous"
+2015,,,,"3669","11721","First Nations Age Group",,"17-25",,,"Jan-Jun",,"Non-Indigenous"
+2015,,,,"4084","12965","First Nations Age Group",,"26-39",,,"Jan-Jun",,"Non-Indigenous"
+2015,,,,"5873","22865","First Nations Age Group",,"40-64",,,"Jan-Jun",,"Non-Indigenous"
+2015,,,,"2287","14122","First Nations Age Group",,"65+",,,"Jan-Jun",,"Non-Indigenous"
+2015,,,,"37","136","First Nations Age Group",,"0-7",,,"Jul-Dec",,"First Nations people"
+2015,,,,"99","404","First Nations Age Group",,"8-16",,,"Jul-Dec",,"First Nations people"
+2015,,,,"253","974","First Nations Age Group",,"17-25",,,"Jul-Dec",,"First Nations people"
+2015,,,,"254","1553","First Nations Age Group",,"26-39",,,"Jul-Dec",,"First Nations people"
+2015,,,,"189","1228","First Nations Age Group",,"40-64",,,"Jul-Dec",,"First Nations people"
+2015,,,,"22","222","First Nations Age Group",,"65+",,,"Jul-Dec",,"First Nations people"
+2015,,,,"340","1343","First Nations Age Group",,"0-7",,,"Jul-Dec",,"Non-Indigenous"
+2015,,,,"1110","3270","First Nations Age Group",,"8-16",,,"Jul-Dec",,"Non-Indigenous"
+2015,,,,"3647","16262","First Nations Age Group",,"17-25",,,"Jul-Dec",,"Non-Indigenous"
+2015,,,,"4285","22283","First Nations Age Group",,"26-39",,,"Jul-Dec",,"Non-Indigenous"
+2015,,,,"5714","36121","First Nations Age Group",,"40-64",,,"Jul-Dec",,"Non-Indigenous"
+2015,,,,"2384","25584","First Nations Age Group",,"65+",,,"Jul-Dec",,"Non-Indigenous"
+2016,,,,"42","100","First Nations Age Group",,"0-7",,,"Jan-Jun",,"First Nations people"
+2016,,,,"142","457","First Nations Age Group",,"8-16",,,"Jan-Jun",,"First Nations people"
+2016,,,,"239","841","First Nations Age Group",,"17-25",,,"Jan-Jun",,"First Nations people"
+2016,,,,"201","895","First Nations Age Group",,"26-39",,,"Jan-Jun",,"First Nations people"
+2016,,,,"173","1689","First Nations Age Group",,"40-64",,,"Jan-Jun",,"First Nations people"
+2016,,,,"12","238","First Nations Age Group",,"65+",,,"Jan-Jun",,"First Nations people"
+2016,,,,"314","1017","First Nations Age Group",,"0-7",,,"Jan-Jun",,"Non-Indigenous"
+2016,,,,"1155","2935","First Nations Age Group",,"8-16",,,"Jan-Jun",,"Non-Indigenous"
+2016,,,,"3949","16911","First Nations Age Group",,"17-25",,,"Jan-Jun",,"Non-Indigenous"
+2016,,,,"4426","20803","First Nations Age Group",,"26-39",,,"Jan-Jun",,"Non-Indigenous"
+2016,,,,"6049","35337","First Nations Age Group",,"40-64",,,"Jan-Jun",,"Non-Indigenous"
+2016,,,,"2470","24534","First Nations Age Group",,"65+",,,"Jan-Jun",,"Non-Indigenous"
+2016,,,,"47","136","First Nations Age Group",,"0-7",,,"Jul-Dec",,"First Nations people"
+2016,,,,"112","361","First Nations Age Group",,"8-16",,,"Jul-Dec",,"First Nations people"
+2016,,,,"262","962","First Nations Age Group",,"17-25",,,"Jul-Dec",,"First Nations people"
+2016,,,,"221","1681","First Nations Age Group",,"26-39",,,"Jul-Dec",,"First Nations people"
+2016,,,,"201","1529","First Nations Age Group",,"40-64",,,"Jul-Dec",,"First Nations people"
+2016,,,,"17","83","First Nations Age Group",,"65+",,,"Jul-Dec",,"First Nations people"
+2016,,,,"320","937","First Nations Age Group",,"0-7",,,"Jul-Dec",,"Non-Indigenous"
+2016,,,,"1045","2545","First Nations Age Group",,"8-16",,,"Jul-Dec",,"Non-Indigenous"
+2016,,,,"3890","17347","First Nations Age Group",,"17-25",,,"Jul-Dec",,"Non-Indigenous"
+2016,,,,"4471","21130","First Nations Age Group",,"26-39",,,"Jul-Dec",,"Non-Indigenous"
+2016,,,,"6108","36272","First Nations Age Group",,"40-64",,,"Jul-Dec",,"Non-Indigenous"
+2016,,,,"2487","25325","First Nations Age Group",,"65+",,,"Jul-Dec",,"Non-Indigenous"
+2017,,,,"37","72","First Nations Age Group",,"0-7",,,"Jan-Jun",,"First Nations people"
+2017,,,,"125","333","First Nations Age Group",,"8-16",,,"Jan-Jun",,"First Nations people"
+2017,,,,"236","790","First Nations Age Group",,"17-25",,,"Jan-Jun",,"First Nations people"
+2017,,,,"228","1623","First Nations Age Group",,"26-39",,,"Jan-Jun",,"First Nations people"
+2017,,,,"191","1340","First Nations Age Group",,"40-64",,,"Jan-Jun",,"First Nations people"
+2017,,,,"15","133","First Nations Age Group",,"65+",,,"Jan-Jun",,"First Nations people"
+2017,,,,"314","634","First Nations Age Group",,"0-7",,,"Jan-Jun",,"Non-Indigenous"
+2017,,,,"1097","3558","First Nations Age Group",,"8-16",,,"Jan-Jun",,"Non-Indigenous"
+2017,,,,"3850","15329","First Nations Age Group",,"17-25",,,"Jan-Jun",,"Non-Indigenous"
+2017,,,,"4619","20462","First Nations Age Group",,"26-39",,,"Jan-Jun",,"Non-Indigenous"
+2017,,,,"6255","35477","First Nations Age Group",,"40-64",,,"Jan-Jun",,"Non-Indigenous"
+2017,,,,"2470","23090","First Nations Age Group",,"65+",,,"Jan-Jun",,"Non-Indigenous"
+2017,,,,"44","152","First Nations Age Group",,"0-7",,,"Jul-Dec",,"First Nations people"
+2017,,,,"126","517","First Nations Age Group",,"8-16",,,"Jul-Dec",,"First Nations people"
+2017,,,,"270","1141","First Nations Age Group",,"17-25",,,"Jul-Dec",,"First Nations people"
+2017,,,,"207","1181","First Nations Age Group",,"26-39",,,"Jul-Dec",,"First Nations people"
+2017,,,,"227","1293","First Nations Age Group",,"40-64",,,"Jul-Dec",,"First Nations people"
+2017,,,,"27","223","First Nations Age Group",,"65+",,,"Jul-Dec",,"First Nations people"
+2017,,,,"328","849","First Nations Age Group",,"0-7",,,"Jul-Dec",,"Non-Indigenous"
+2017,,,,"1125","2880","First Nations Age Group",,"8-16",,,"Jul-Dec",,"Non-Indigenous"
+2017,,,,"4006","16883","First Nations Age Group",,"17-25",,,"Jul-Dec",,"Non-Indigenous"
+2017,,,,"4307","19845","First Nations Age Group",,"26-39",,,"Jul-Dec",,"Non-Indigenous"
+2017,,,,"6074","32875","First Nations Age Group",,"40-64",,,"Jul-Dec",,"Non-Indigenous"
+2017,,,,"2585","26172","First Nations Age Group",,"65+",,,"Jul-Dec",,"Non-Indigenous"
+2018,,,,"25","60","First Nations Age Group",,"0-7",,,"Jan-Jun",,"First Nations people"
+2018,,,,"130","323","First Nations Age Group",,"8-16",,,"Jan-Jun",,"First Nations people"
+2018,,,,"264","1010","First Nations Age Group",,"17-25",,,"Jan-Jun",,"First Nations people"
+2018,,,,"267","1618","First Nations Age Group",,"26-39",,,"Jan-Jun",,"First Nations people"
+2018,,,,"186","1004","First Nations Age Group",,"40-64",,,"Jan-Jun",,"First Nations people"
+2018,,,,"22","210","First Nations Age Group",,"65+",,,"Jan-Jun",,"First Nations people"
+2018,,,,"334","1116","First Nations Age Group",,"0-7",,,"Jan-Jun",,"Non-Indigenous"
+2018,,,,"1059","2847","First Nations Age Group",,"8-16",,,"Jan-Jun",,"Non-Indigenous"
+2018,,,,"3794","14632","First Nations Age Group",,"17-25",,,"Jan-Jun",,"Non-Indigenous"
+2018,,,,"4633","19062","First Nations Age Group",,"26-39",,,"Jan-Jun",,"Non-Indigenous"
+2018,,,,"6265","33193","First Nations Age Group",,"40-64",,,"Jan-Jun",,"Non-Indigenous"
+2018,,,,"2595","24086","First Nations Age Group",,"65+",,,"Jan-Jun",,"Non-Indigenous"
+2018,,,,"45","243","First Nations Age Group",,"0-7",,,"Jul-Dec",,"First Nations people"
+2018,,,,"123","512","First Nations Age Group",,"8-16",,,"Jul-Dec",,"First Nations people"
+2018,,,,"343","2073","First Nations Age Group",,"17-25",,,"Jul-Dec",,"First Nations people"
+2018,,,,"275","1720","First Nations Age Group",,"26-39",,,"Jul-Dec",,"First Nations people"
+2018,,,,"225","1232","First Nations Age Group",,"40-64",,,"Jul-Dec",,"First Nations people"
+2018,,,,"25","162","First Nations Age Group",,"65+",,,"Jul-Dec",,"First Nations people"
+2018,,,,"312","1050","First Nations Age Group",,"0-7",,,"Jul-Dec",,"Non-Indigenous"
+2018,,,,"1085","2887","First Nations Age Group",,"8-16",,,"Jul-Dec",,"Non-Indigenous"
+2018,,,,"3828","16976","First Nations Age Group",,"17-25",,,"Jul-Dec",,"Non-Indigenous"
+2018,,,,"4467","17819","First Nations Age Group",,"26-39",,,"Jul-Dec",,"Non-Indigenous"
+2018,,,,"6116","33328","First Nations Age Group",,"40-64",,,"Jul-Dec",,"Non-Indigenous"
+2018,,,,"2710","25366","First Nations Age Group",,"65+",,,"Jul-Dec",,"Non-Indigenous"
+2019,,,,"40","85","First Nations Age Group",,"0-7",,,"Jan-Jun",,"First Nations people"
+2019,,,,"113","369","First Nations Age Group",,"8-16",,,"Jan-Jun",,"First Nations people"
+2019,,,,"261","1245","First Nations Age Group",,"17-25",,,"Jan-Jun",,"First Nations people"
+2019,,,,"264","1369","First Nations Age Group",,"26-39",,,"Jan-Jun",,"First Nations people"
+2019,,,,"193","1108","First Nations Age Group",,"40-64",,,"Jan-Jun",,"First Nations people"
+2019,,,,"27","191","First Nations Age Group",,"65+",,,"Jan-Jun",,"First Nations people"
+2019,,,,"311","1283","First Nations Age Group",,"0-7",,,"Jan-Jun",,"Non-Indigenous"
+2019,,,,"1067","2620","First Nations Age Group",,"8-16",,,"Jan-Jun",,"Non-Indigenous"
+2019,,,,"3842","17090","First Nations Age Group",,"17-25",,,"Jan-Jun",,"Non-Indigenous"
+2019,,,,"4534","19164","First Nations Age Group",,"26-39",,,"Jan-Jun",,"Non-Indigenous"
+2019,,,,"6357","32678","First Nations Age Group",,"40-64",,,"Jan-Jun",,"Non-Indigenous"
+2019,,,,"2678","22904","First Nations Age Group",,"65+",,,"Jan-Jun",,"Non-Indigenous"
+2019,,,,"38","252","First Nations Age Group",,"0-7",,,"Jul-Dec",,"First Nations people"
+2019,,,,"135","443","First Nations Age Group",,"8-16",,,"Jul-Dec",,"First Nations people"
+2019,,,,"260","1955","First Nations Age Group",,"17-25",,,"Jul-Dec",,"First Nations people"
+2019,,,,"275","1733","First Nations Age Group",,"26-39",,,"Jul-Dec",,"First Nations people"
+2019,,,,"218","1248","First Nations Age Group",,"40-64",,,"Jul-Dec",,"First Nations people"
+2019,,,,"32","317","First Nations Age Group",,"65+",,,"Jul-Dec",,"First Nations people"
+2019,,,,"305","846","First Nations Age Group",,"0-7",,,"Jul-Dec",,"Non-Indigenous"
+2019,,,,"1152","3346","First Nations Age Group",,"8-16",,,"Jul-Dec",,"Non-Indigenous"
+2019,,,,"3644","15296","First Nations Age Group",,"17-25",,,"Jul-Dec",,"Non-Indigenous"
+2019,,,,"4434","15749","First Nations Age Group",,"26-39",,,"Jul-Dec",,"Non-Indigenous"
+2019,,,,"6222","34360","First Nations Age Group",,"40-64",,,"Jul-Dec",,"Non-Indigenous"
+2019,,,,"2936","26534","First Nations Age Group",,"65+",,,"Jul-Dec",,"Non-Indigenous"
+2020,,,,"41","157","First Nations Age Group",,"0-7",,,"Jan-Jun",,"First Nations people"
+2020,,,,"117","362","First Nations Age Group",,"8-16",,,"Jan-Jun",,"First Nations people"
+2020,,,,"300","1619","First Nations Age Group",,"17-25",,,"Jan-Jun",,"First Nations people"
+2020,,,,"295","1652","First Nations Age Group",,"26-39",,,"Jan-Jun",,"First Nations people"
+2020,,,,"209","1380","First Nations Age Group",,"40-64",,,"Jan-Jun",,"First Nations people"
+2020,,,,"28","185","First Nations Age Group",,"65+",,,"Jan-Jun",,"First Nations people"
+2020,,,,"309","921","First Nations Age Group",,"0-7",,,"Jan-Jun",,"Non-Indigenous"
+2020,,,,"1134","2849","First Nations Age Group",,"8-16",,,"Jan-Jun",,"Non-Indigenous"
+2020,,,,"3352","12715","First Nations Age Group",,"17-25",,,"Jan-Jun",,"Non-Indigenous"
+2020,,,,"3911","15452","First Nations Age Group",,"26-39",,,"Jan-Jun",,"Non-Indigenous"
+2020,,,,"5550","28893","First Nations Age Group",,"40-64",,,"Jan-Jun",,"Non-Indigenous"
+2020,,,,"2240","22400","First Nations Age Group",,"65+",,,"Jan-Jun",,"Non-Indigenous"
+2020,,,,"41","259","First Nations Age Group",,"0-7",,,"Jul-Dec",,"First Nations people"
+2020,,,,"178","689","First Nations Age Group",,"8-16",,,"Jul-Dec",,"First Nations people"
+2020,,,,"405","1959","First Nations Age Group",,"17-25",,,"Jul-Dec",,"First Nations people"
+2020,,,,"364","2191","First Nations Age Group",,"26-39",,,"Jul-Dec",,"First Nations people"
+2020,,,,"287","1698","First Nations Age Group",,"40-64",,,"Jul-Dec",,"First Nations people"
+2020,,,,"25","225","First Nations Age Group",,"65+",,,"Jul-Dec",,"First Nations people"
+2020,,,,"311","755","First Nations Age Group",,"0-7",,,"Jul-Dec",,"Non-Indigenous"
+2020,,,,"1344","3436","First Nations Age Group",,"8-16",,,"Jul-Dec",,"Non-Indigenous"
+2020,,,,"3831","13891","First Nations Age Group",,"17-25",,,"Jul-Dec",,"Non-Indigenous"
+2020,,,,"4494","16994","First Nations Age Group",,"26-39",,,"Jul-Dec",,"Non-Indigenous"
+2020,,,,"6124","29702","First Nations Age Group",,"40-64",,,"Jul-Dec",,"Non-Indigenous"
+2020,,,,"2586","21891","First Nations Age Group",,"65+",,,"Jul-Dec",,"Non-Indigenous"
+2021,,,,"44","289","First Nations Age Group",,"0-7",,,"Jan-Jun",,"First Nations people"
+2021,,,,"140","640","First Nations Age Group",,"8-16",,,"Jan-Jun",,"First Nations people"
+2021,,,,"361","2003","First Nations Age Group",,"17-25",,,"Jan-Jun",,"First Nations people"
+2021,,,,"286","1606","First Nations Age Group",,"26-39",,,"Jan-Jun",,"First Nations people"
+2021,,,,"272","1804","First Nations Age Group",,"40-64",,,"Jan-Jun",,"First Nations people"
+2021,,,,"14","187","First Nations Age Group",,"65+",,,"Jan-Jun",,"First Nations people"
+2021,,,,"312","685","First Nations Age Group",,"0-7",,,"Jan-Jun",,"Non-Indigenous"
+2021,,,,"1204","3779","First Nations Age Group",,"8-16",,,"Jan-Jun",,"Non-Indigenous"
+2021,,,,"3776","15822","First Nations Age Group",,"17-25",,,"Jan-Jun",,"Non-Indigenous"
+2021,,,,"4548","17570","First Nations Age Group",,"26-39",,,"Jan-Jun",,"Non-Indigenous"
+2021,,,,"6602","33374","First Nations Age Group",,"40-64",,,"Jan-Jun",,"Non-Indigenous"
+2021,,,,"2818","24697","First Nations Age Group",,"65+",,,"Jan-Jun",,"Non-Indigenous"
+2021,,,,"42","111","First Nations Age Group",,"0-7",,,"Jul-Dec",,"First Nations people"
+2021,,,,"151","597","First Nations Age Group",,"8-16",,,"Jul-Dec",,"First Nations people"
+2021,,,,"325","1519","First Nations Age Group",,"17-25",,,"Jul-Dec",,"First Nations people"
+2021,,,,"311","2375","First Nations Age Group",,"26-39",,,"Jul-Dec",,"First Nations people"
+2021,,,,"243","2026","First Nations Age Group",,"40-64",,,"Jul-Dec",,"First Nations people"
+2021,,,,"31","119","First Nations Age Group",,"65+",,,"Jul-Dec",,"First Nations people"
+2021,,,,"298","874","First Nations Age Group",,"0-7",,,"Jul-Dec",,"Non-Indigenous"
+2021,,,,"1329","3464","First Nations Age Group",,"8-16",,,"Jul-Dec",,"Non-Indigenous"
+2021,,,,"3449","13175","First Nations Age Group",,"17-25",,,"Jul-Dec",,"Non-Indigenous"
+2021,,,,"4141","17058","First Nations Age Group",,"26-39",,,"Jul-Dec",,"Non-Indigenous"
+2021,,,,"5735","28284","First Nations Age Group",,"40-64",,,"Jul-Dec",,"Non-Indigenous"
+2021,,,,"2543","22621","First Nations Age Group",,"65+",,,"Jul-Dec",,"Non-Indigenous"
