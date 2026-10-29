@@ -43,7 +43,6 @@ button, select { min-height: 44px; }
 nav { display: flex; gap: 1.1rem; overflow-x: auto; padding: .25rem 0; }
 nav a { color: var(--ink); font-size: .9rem; font-weight: 700; text-decoration: none; white-space: nowrap; }
 nav a:hover, nav a:focus-visible { color: var(--orange); }
-.story-switch { border-bottom: 2px solid var(--orange); }
 
 main { overflow: hidden; }
 .hero, .overview, .global-controls, .story-section, .context-section, footer {
@@ -124,12 +123,6 @@ footer { padding: 3rem 0 5rem; color: var(--muted); font-size: .9rem; }
 .annotation { fill: var(--ink); font-size: 12px; font-weight: 700; }
 .annotation-line { stroke: var(--ink); stroke-dasharray: 3 3; }
 .empty-state { padding: 4rem 1rem; text-align: center; color: var(--muted); }
-.enforcement-story { --orange: #a63d12; }
-.enforcement-hero h1 { max-width: 13ch; }
-.mix-label, .age-share-label { font-size: 12px; font-weight: 850; pointer-events: none; }
-.mix-label { fill: white; }
-.rate-stem { stroke: #789297; stroke-width: 3; }
-.rate-dot { fill: var(--orange); stroke: var(--surface); stroke-width: 2; }
 
 .tooltip { position: fixed; z-index: 50; max-width: 260px; padding: .65rem .8rem; pointer-events: none; background: var(--ink); color: white; border: 2px solid white; box-shadow: 0 8px 24px rgba(0,0,0,.22); font-size: .9rem; }
 .sr-only { position: absolute !important; width: 1px !important; height: 1px !important; padding: 0 !important; margin: -1px !important; overflow: hidden !important; clip: rect(0,0,0,0) !important; white-space: nowrap !important; border: 0 !important; }

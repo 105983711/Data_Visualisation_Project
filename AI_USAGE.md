@@ -12,7 +12,6 @@ The team asked Codex to:
 - include purposeful filters, tooltips and data summaries rather than an unrestricted dashboard;
 - implement semantic HTML, keyboard interaction, SVG titles and descriptions, accessible tables, high-contrast colour, non-colour encodings and reduced-motion support;
 - test the website, document the data and prepare the repository for team review.
-- add a separately identified police-enforcement story to the same submission, validate its processed totals against BITRE's published figures, and document the change in data structure from 2023.
 
 ## Team review responsibilities
 

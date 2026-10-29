@@ -4,7 +4,7 @@
 
 ## Project overview
 
-This submission contains two linked, focused D3 stories. The first explores BITRE Hospitalised Injury Data for Australia from 2011 to 2021. The second explores BITRE Road Safety Enforcement Data from 2008 to 2024, including detection methods, comparable jurisdiction rates and the detailed age information published from 2023.
+This project explores the Bureau of Infrastructure and Transport Research Economics (BITRE) Hospitalised Injury Data for Australia from 2011 to 2021. It focuses on national trends, comparisons across States and Territories, and selected road-user or demographic patterns, presented as a focused D3 data story.
 
 The dataset reports absolute hospitalisation counts. These counts are not population-adjusted rates.
 
@@ -22,16 +22,13 @@ cd website
 python -m http.server 8080
 ```
 
-Then open `http://localhost:8080/` for the hospitalisation story or `http://localhost:8080/enforcement.html` for the enforcement story. Each page links to the other.
+Then open `http://localhost:8080/`.
 
 ## Data and workflow
 
 - Processed KNIME export: `data/processed/traffic_injury_analysis_views.csv`
 - Exported KNIME workflow: `data/workflow/Group28.knwf`
 - Website deployment copy: `website/data/traffic_injury_analysis_views.csv`
-- Enforcement source data: `data/raw/enforcement/`
-- Reproducible enforcement processing: `data/scripts/process_enforcement.py`
-- Enforcement chart-ready data: `data/processed/enforcement_views.csv`
 
 ## Stand-up 1 materials
 

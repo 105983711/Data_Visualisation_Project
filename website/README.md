@@ -1,6 +1,6 @@
 # Road injury data story
 
-Two linked, accessible and responsive D3 stories about Australian road-injury hospitalisations and police road-safety enforcement.
+An accessible, responsive D3 data story about hospitalised injuries from road crashes in Australia, 2011-2021.
 
 ## Run locally
 
@@ -11,10 +11,7 @@ cd website
 python -m http.server 8080
 ```
 
-Then open:
-
-- `http://localhost:8080/` — hospitalisation story
-- `http://localhost:8080/enforcement.html` — police-enforcement story
+Then open `http://localhost:8080/`.
 
 ## Structure
 
@@ -25,9 +22,6 @@ Then open:
 - `js/charts.js` - D3 visualisation modules
 - `js/app.js` - application state and controls
 - `data/traffic_injury_analysis_views.csv` - KNIME export used by the charts
-- `enforcement.html` - police-enforcement story
-- `js/enforcement-data.js`, `js/enforcement-charts.js`, `js/enforcement-app.js` - enforcement modules
-- `data/enforcement_views.csv` - processed enforcement views
 - `vendor/d3.v7.min.js` - local D3 7.9.0 distribution
 
 ## Accessibility
