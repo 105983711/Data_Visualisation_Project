@@ -29,16 +29,19 @@ Then open `http://localhost:8080/`.
 - Processed KNIME export: `data/processed/traffic_injury_analysis_views.csv`
 - Exported KNIME workflow: `data/workflow/Group28.knwf`
 - Website deployment copy: `website/data/traffic_injury_analysis_views.csv`
+- Current website storyboard: `docs/storyboard/hospitalisation-storyboard.svg`
+- KNIME source and node explanation: `docs/storyboard/knime-workflow-explanation.md`
 
 ## Stand-up 1 materials
 
 - Design Book draft: `docs/stand-up-1/Design Book Draft.docx` and `docs/stand-up-1/Design Book Draft.pdf`
 - Presentation: `docs/stand-up-1/Stand-up 1 Presentation.pptx` and `docs/stand-up-1/Stand-up 1 Presentation.pdf`
-- Proposed storyboard: `docs/stand-up-1/Road Injury Storyboard.pptx` and `docs/stand-up-1/Road Injury Storyboard.pdf`
+- Original Stand-up 1 storyboard: `docs/stand-up-1/Road Injury Storyboard.pptx` and `docs/stand-up-1/Road Injury Storyboard.pdf`
 
 ## Repository contents
 
 - `data/` — project data materials
+- `docs/storyboard/` — current hospitalisation storyboard and workflow explanation
 - `docs/stand-up-1/` — Stand-up 1 documents and presentation materials
 - `website/` — responsive D3 data story
 - `AI_USAGE.md` — required GenAI acknowledgement and prompt summary
