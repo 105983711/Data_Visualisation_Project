@@ -13,7 +13,10 @@ export const formatPercent = d3.format(".1%");
 
 export function chartSize(container, preferredHeight = 460) {
   const width = Math.max(320, Math.min(1100, container.clientWidth || 900));
-  const height = width < 560 ? Math.max(360, preferredHeight * .82) : preferredHeight;
+  const availableHeight = container.clientHeight || preferredHeight;
+  const height = width < 560
+    ? Math.max(360, Math.min(560, availableHeight))
+    : Math.max(preferredHeight, Math.min(650, availableHeight));
   return { width, height };
 }
 
@@ -51,15 +54,35 @@ export function hideTooltip() {
 
 export function accessibleMarks(selection, label) {
   const nodes = selection.nodes();
+  const highlight = activeNode => {
+    selection
+      .classed("context-muted", function() { return this !== activeNode; })
+      .classed("context-selected", function() { return this === activeNode; });
+  };
+  const clearHighlight = () => selection
+    .classed("context-muted", false)
+    .classed("context-selected", false);
   selection
     .attr("class", function() { return `${this.getAttribute("class") || ""} mark`.trim(); })
     .attr("tabindex", 0)
     .attr("role", "graphics-symbol")
     .attr("aria-label", label)
-    .on("mouseenter", function(event, d) { showTooltip(event, label(d)); })
-    .on("mouseleave", hideTooltip)
-    .on("focus", function(event, d) { showTooltip(event, label(d)); })
-    .on("blur", hideTooltip)
+    .on("mouseenter", function(event, d) {
+      highlight(this);
+      showTooltip(event, label(d));
+    })
+    .on("mouseleave", function() {
+      clearHighlight();
+      hideTooltip();
+    })
+    .on("focus", function(event, d) {
+      highlight(this);
+      showTooltip(event, label(d));
+    })
+    .on("blur", function() {
+      clearHighlight();
+      hideTooltip();
+    })
     .on("keydown", function(event) {
       const index = nodes.indexOf(this);
       if (["ArrowRight", "ArrowDown"].includes(event.key)) {

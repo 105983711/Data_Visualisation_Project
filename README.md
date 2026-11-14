@@ -7,130 +7,137 @@ COS30045 Data Visualisation — Group 28
 - Mohona Tabassum Sneha
 - Iqbal Sameer
 
-## Project overview
+## Project summary
 
-This project examines hospitalised injuries from road crashes in Australia between 2011 and 2021. The KNIME workflow prepares the source data and the D3 website presents a guided, interactive data story.
+This project analyses Australian road-crash hospitalisation data for 2011–2021. Three official BITRE workbooks were cleaned and transformed in KNIME, combined into one processed CSV, and presented through an interactive D3 dashboard. The repository also contains the final design book and presentation.
 
-The project investigates:
+The analysis addresses six questions:
 
-- how hospitalisations and hospital bed-days changed over time;
-- which road-user categories recorded the highest totals;
-- how hospitalisations differed by age group and sex;
-- how recorded totals varied across states and territories; and
-- how age profiles differed between First Nations people and non-Indigenous Australians.
+1. How did hospitalisations and corrected bed-days change over time?
+2. Which road-user categories recorded the largest totals?
+3. How did recorded totals differ by age group and gender?
+4. How did First Nations and non-Indigenous age profiles differ?
+5. How did states and territories compare?
+6. What do hospitalisations and corrected bed-days reveal together?
 
-The values are absolute counts. They are not adjusted for population size, travel exposure or individual risk.
+All dashboard values are recorded counts. They are not population-adjusted rates and do not measure individual risk.
+
+## Repository contents
+
+```text
+Data_Visualisation_Project/
+├── data/
+│   ├── unprocessed/   Official BITRE Excel workbooks
+│   ├── processed/     KNIME-generated analytical CSV
+│   └── workflow/      KNIME workflow saved with data
+├── docs/
+│   ├── Design_Book.docx
+│   └── Group28_Final_Presentation.pdf
+├── website/
+│   ├── css/
+│   ├── data/          Deployment copy of the processed CSV
+│   ├── js/            Dashboard state, findings and chart modules
+│   ├── vendor/        Local D3 library
+│   ├── dashboard.html
+│   └── index.html
+├── AI_USAGE.md
+└── README.md
+```
 
 ## Data sources
 
-Three official Excel workbooks were downloaded from the [BITRE Hospitalised Injury page](https://www.bitre.gov.au/resource/road-safety/hospitalised-injury):
+The unprocessed data in `data/unprocessed/` contains the three BITRE workbooks used in the project:
 
-1. `hospitalisation_injury_publication_sep2023.xlsx` — national hospitalisation records;
-2. `state-and-territory-hospitalisation-injury-publication-2023.xlsx` — state and territory records; and
-3. `First-Nations-hospitalised-injuries-2023.xlsx` — First Nations status and age-group records.
+- `hospitalisation_injury_publication_sep2023.xlsx` — national hospitalisation data;
+- `state-and-territory-hospitalisation-injury-publication-2023.xlsx` — state and territory data; and
+- `First-Nations-hospitalised-injuries-2023.xlsx` — First Nations status and age-group data.
 
-The release covers 2011–2021 and was published on 22 September 2023. The source workbooks and BITRE data dictionary are included inside the exported KNIME workflow package.
-
-The workflow reads the `raw` sheet from each workbook rather than relying on the formatted summary tables. This allowed us to perform our own filtering, cleaning, checks and aggregations.
+The data was obtained from the [BITRE Hospitalised Injury collection](https://www.bitre.gov.au/resource/road-safety/hospitalised-injury). The analysis uses the raw sheets rather than copying the preformatted summary tables, allowing the filtering, cleaning and aggregation to be reproduced.
 
 ## KNIME processing
 
-The KNIME workflow:
+The saved workflow is `data/workflow/Group28.knwf`. It includes its data and can be opened in KNIME Analytics Platform.
 
-- reads the three official workbooks;
-- keeps traffic-injury records from the national data;
-- cleans category labels and whitespace;
-- checks category values, missing values, duplicates and numeric distributions;
-- validates the published hospitalisation calculation;
-- creates month, date and age-order fields for correct sorting;
-- groups the national data into monthly, road-user, and age-and-sex views;
-- prepares the state and First Nations views;
-- labels and concatenates the five views;
-- checks that every expected view is present; and
-- writes one chart-ready CSV file.
+The workflow:
 
-The exported `bed_days` field represents bed-days excluding bed-days associated with people who died in hospital within 30 days. Published `n.p.` values remain unavailable and are not changed to zero.
+- reads and inspects the three official workbooks;
+- filters the national file to traffic-injury records;
+- cleans category labels and checks missing values, duplicates and distributions;
+- creates month, date and ordering fields;
+- validates the published hospitalisation relationship;
+- calculates corrected bed-days as `Bed days - Died_bed_days`;
+- preserves published `n.p.` values as missing instead of replacing them with zero;
+- derives five analytical views for the dashboard;
+- concatenates the views and verifies their row counts; and
+- exports one chart-ready CSV.
 
-The exported workflow is stored at `data/workflow/Group28.knwf`. A detailed explanation of its nodes and branches is available at `docs/storyboard/knime-workflow-explanation.md`.
+The processed file is `data/processed/traffic_injury_analysis_views.csv`. It contains 869 rows across five labelled views:
 
-## Processed data
-
-The processed file is `data/processed/traffic_injury_analysis_views.csv`. It contains 869 records across five labelled views:
-
-| View | Rows | Website use |
+| Analytical view | Rows | Dashboard use |
 |---|---:|---|
-| National Monthly | 132 | National trend |
-| National Road User | 132 | Road-user ranking |
-| National Age and Sex | 165 | Age and sex comparison |
-| State Six-Monthly | 176 | State and territory heatmap |
-| First Nations Age Group | 264 | First Nations age profile |
-| **Total** | **869** | Five website sections |
+| National Monthly | 132 | Annual trend |
+| National Road User | 132 | Road-user composition |
+| National Age and Sex | 165 | Age and gender comparison |
+| State Six-Monthly | 176 | State ranking and heatmap |
+| First Nations Age Group | 264 | First Nations age profiles |
+| **Total** | **869** | Six coordinated visualisations |
 
-The website uses a deployment copy at `website/data/traffic_injury_analysis_views.csv`.
+A copy of the same CSV is stored in `website/data/` so the dashboard can run as a self-contained website.
 
-## Website
+## Dashboard
 
-The website is a responsive D3 data story with five visualisations:
+The dashboard is implemented with HTML, CSS, JavaScript and D3. It uses five navigation tabs:
 
-- an annual line and area chart;
-- a ranked road-user lollipop chart;
-- a grouped age-and-sex bar chart;
-- a state and territory heatmap; and
-- a grouped First Nations status and age-group bar chart.
+- **Overview** — KPI cards, annual trend and road-user composition;
+- **People** — age-and-gender grouped bars and a First Nations dumbbell plot;
+- **Places** — state and territory ranking and a state-by-year heatmap;
+- **Findings** — hospitalisations and corrected bed-days shown side by side for all six questions; and
+- **Definitions** — measure definitions, processing notes and interpretation limits.
 
-Users can select hospitalisations or bed-days, choose a year range, change the number of road-user categories displayed, and switch the First Nations comparison between counts and within-group shares.
+Shared controls let users choose hospitalisations or corrected bed-days, select start and end years, and reset the dashboard. The charts update from the same dashboard state. Tooltips, direct labels, keyboard-operable marks, visible focus, SVG descriptions, an `aria-live` status message and reduced-motion support improve accessibility.
 
-The website code is organised as follows:
+The chart choices match the analytical tasks:
 
-- `website/index.html` — page structure, controls and written context;
-- `website/css/styles.css` — layout, colour and responsive styles;
-- `website/js/data.js` — CSV loading, parsing, filtering and aggregation;
-- `website/js/charts.js` — D3 chart modules;
-- `website/js/app.js` — application state and controls;
-- `website/js/a11y.js` — accessible chart helpers, tooltips and tables; and
-- `website/vendor/d3.v7.min.js` — local D3 library.
+| Question | Chart | Reason |
+|---|---|---|
+| Change over time | Line and area chart | Year is ordered and the chart reveals direction and the peak. |
+| Road-user composition | Donut chart | Summarises the leading categories as parts of the selected total. |
+| Age and gender | Grouped bars | A common baseline supports direct comparison. |
+| First Nations profiles | Dumbbell plot | Shows the gap between two within-status shares for each age group. |
+| State comparison | Horizontal ranking | Supports accurate comparison of jurisdiction totals. |
+| State patterns over time | Heatmap | Reveals strong state-and-year combinations in a compact matrix. |
 
-## Accessibility
+## Validation and usability evaluation
 
-The website includes:
+KNIME validation included Statistics, Value Counter, Histogram, Duplicate Row Filter, Formula Error checks and final view-count verification. No rows failed the hospitalisation formula check, and all five expected analytical views were present before export.
 
-- semantic headings and landmarks;
-- a skip link and visible keyboard focus;
-- keyboard-accessible chart marks;
-- SVG titles and descriptions;
-- written chart summaries and accessible data tables;
-- direct labels and patterns so colour is not the only encoding;
-- high-contrast colours;
-- responsive text and layouts; and
-- reduced-motion support.
+A formative usability evaluation was completed with three participants. Tasks covered navigation, filters, the peak year, leading road-user category, corrected bed-days, age and gender, First Nations profiles, state comparisons and the counts-not-risk warning. The evaluation supported retaining the shared controls, tooltips and labels while keeping the measure explanations and interpretation limits prominent.
 
-## Run the website locally
+## Design book and presentation
 
-The CSV is loaded through JavaScript, so the website must be served over HTTP.
+- `docs/Design_Book.docx` documents the research questions, source data, KNIME processing, visual design decisions, dashboard implementation, validation, usability evaluation and appendices.
+- `docs/Group28_Final_Presentation.pdf` presents the project process, findings, chart stories and design justification.
+
+## Run the dashboard locally
+
+The CSV must be loaded through HTTP rather than by opening the HTML file directly.
 
 ```powershell
 cd website
 python -m http.server 8080
 ```
 
-Open `http://localhost:8080/` in a browser.
+Open `http://localhost:8080/`. The entry page redirects to `dashboard.html`.
 
-## Project files
+## Main website files
 
-- `data/processed/` — processed CSV used for analysis
-- `data/workflow/` — exported KNIME workflow
-- `docs/storyboard/` — current storyboard and KNIME explanation
-- `docs/stand-up-1/` — Design Book draft, storyboard and presentation files
-- `website/` — D3 website and deployment data
-- `AI_USAGE.md` — declaration of generative AI use
+- `website/dashboard.html` — dashboard structure and written context
+- `website/css/dashboard.css` — layout, visual design and responsive rules
+- `website/js/dashboard.js` — shared state, filters, navigation and rendering
+- `website/js/findings.js` — two-measure findings table
+- `website/js/data.js` — CSV parsing, filtering and D3 aggregation
+- `website/js/a11y.js` — tooltips and accessible mark behaviour
+- `website/js/charts/` — one module for each visualisation
+- `website/vendor/d3.v7.min.js` — local D3 library
 
-## Current status
-
-- The KNIME workflow and five analysis views have been created.
-- The processed CSV has been exported and checked.
-- The bed-day calculation has been updated to exclude died bed-days.
-- The five D3 visualisations and shared controls are implemented.
-- Accessibility features and supporting data tables are included.
-- The storyboard, workflow explanation and Stand-up 1 materials are stored in the repository.
-
-Usability evaluation, final team review and Mercury deployment still need to be completed before submission.
+Generative AI use is declared separately in `AI_USAGE.md`.

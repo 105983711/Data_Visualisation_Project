@@ -1,0 +1,9 @@
+.codex-work/
+.findings-work/
+.presentation-work/
+.reflection-work/
+.reflection-render*/
+website.zip
+*.inspect.ndjson
+~$*
+docs/Design Book with KNIME Evidence Updated.docx
