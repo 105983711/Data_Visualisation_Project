@@ -29,26 +29,8 @@ const state = {
 const metricLabel = () =>
   state.metric === "bed_days" ? "bed-days" : "hospitalisations";
 
-function updateKpis(trend, road) {
-  const total = d3.sum(trend, d => d.value);
-  const peak = d3.greatest(trend, d => d.value);
-  const roadTotal = d3.sum(road, d => d.value);
-  const leader = road[0];
+function updateTrendStory(trend) {
   const label = metricLabel();
-
-  document.querySelector("#total-kpi-label").textContent =
-    `${label[0].toUpperCase() + label.slice(1)} in selected period`;
-  document.querySelector("#total-kpi").textContent = formatNumber(total);
-  document.querySelector("#total-kpi-note").textContent =
-    `${state.startYear}–${state.endYear} national total`;
-  document.querySelector("#peak-kpi").textContent = peak?.year ?? "—";
-  document.querySelector("#peak-kpi-note").textContent = peak
-    ? `${formatNumber(peak.value)} ${label}`
-    : "No records";
-  document.querySelector("#road-kpi").textContent = leader?.road_user ?? "—";
-  document.querySelector("#road-kpi-note").textContent = leader
-    ? `${formatPercent(leader.value / roadTotal)} of selected road-user total`
-    : "No records";
 
   const first = trend[0];
   const last = trend.at(-1);
@@ -119,7 +101,7 @@ function render() {
   );
   const label = metricLabel();
 
-  updateKpis(trend, road);
+  updateTrendStory(trend);
   updateChartStories(road, age, states, firstNations, label);
   renderTrendChart(trend, label);
   renderRoadUserDonut(road, label);

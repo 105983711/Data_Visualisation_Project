@@ -1,6 +1,7 @@
 // Research question: How did the age profile differ by First Nations status?
 import { createSvg, accessibleMarks, formatPercent } from "../a11y.js";
 import { AGE_ORDER } from "../data.js";
+import { addMeasureLabel } from "./chart-utils.js";
 const FIRST_NATIONS = "First Nations people";
 const NON_INDIGENOUS = "Non-Indigenous";
 
@@ -29,6 +30,7 @@ export function renderFirstNationsChart(data, label) {
     height: 315
   });
   const margin = { top: 45, right: 22, bottom: 45, left: 60 };
+  addMeasureLabel(svg, width, height, label);
   const maximumShare = d3.max(prepared, d => d.share) || 0;
   const x = d3.scaleLinear()
     .domain([0, Math.max(0.4, maximumShare * 1.08)])

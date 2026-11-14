@@ -2,7 +2,7 @@
 // The official source field is named "sex"; the dashboard presents it as recorded gender.
 import { createSvg, accessibleMarks, formatNumber } from "../a11y.js";
 import { AGE_ORDER } from "../data.js";
-import { addGridYAxis } from "./chart-utils.js";
+import { addGridYAxis, addMeasureLabel } from "./chart-utils.js";
 
 export function renderAgeSexChart(data, label) {
   const container = document.querySelector("#dashboard-age");
@@ -22,6 +22,7 @@ export function renderAgeSexChart(data, label) {
     height: 315,
   });
   const margin = { top: 42, right: 20, bottom: 42, left: 54 };
+  addMeasureLabel(svg, width, height, label);
   const xAge = d3.scaleBand().domain(ages).range([margin.left, width - margin.right]).padding(.18);
   const xGender = d3.scaleBand().domain(genders).range([0, xAge.bandwidth()]).padding(.08);
   const y = d3.scaleLinear().domain([0, d3.max(data, d => d.value) || 1]).nice()

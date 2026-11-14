@@ -1,6 +1,6 @@
 // Research question: Which states and territories recorded the largest totals?
 import { createSvg, accessibleMarks, formatNumber } from "../a11y.js";
-import { axisFormat } from "./chart-utils.js";
+import { addMeasureLabel, axisFormat } from "./chart-utils.js";
 
 export function renderStateRankingChart(data, label) {
   const container = document.querySelector("#dashboard-state");
@@ -14,6 +14,7 @@ export function renderStateRankingChart(data, label) {
     height: 315,
   });
   const margin = { top: 24, right: 72, bottom: 38, left: 58 };
+  addMeasureLabel(svg, width, height, label);
   const x = d3.scaleLinear().domain([0, d3.max(rows, d => d.value) || 1]).nice()
     .range([margin.left, width - margin.right]);
   const y = d3.scaleBand().domain(rows.map(d => d.state))

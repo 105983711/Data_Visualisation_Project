@@ -1,6 +1,6 @@
 // Research question: How did state and territory totals vary over time?
 import { createSvg, accessibleMarks, formatNumber } from "../a11y.js";
-import { axisFormat } from "./chart-utils.js";
+import { addMeasureLabel, axisFormat } from "./chart-utils.js";
 
 export function renderStateHeatmap(data, label) {
   const container = document.querySelector("#dashboard-state-heatmap");
@@ -14,6 +14,7 @@ export function renderStateHeatmap(data, label) {
     height: 315
   });
   const margin = { top: 22, right: 12, bottom: 40, left: 50 };
+  addMeasureLabel(svg, width, height, label);
   const x = d3.scaleBand().domain(years).range([margin.left, width - margin.right]).padding(.04);
   const y = d3.scaleBand().domain(states).range([margin.top, height - margin.bottom]).padding(.06);
   const max = d3.max(data, d => d.value) || 1;

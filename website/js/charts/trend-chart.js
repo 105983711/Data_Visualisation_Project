@@ -1,6 +1,6 @@
 // Research question: How did hospitalisations and bed-days change over time?
 import { createSvg, accessibleMarks, formatNumber } from "../a11y.js";
-import { addGridYAxis } from "./chart-utils.js";
+import { addGridYAxis, addMeasureLabel } from "./chart-utils.js";
 
 export function renderTrendChart(data, label) {
   const container = document.querySelector("#dashboard-trend");
@@ -11,6 +11,7 @@ export function renderTrendChart(data, label) {
     height: 285
   });
   const margin = { top: 20, right: 24, bottom: 38, left: 64 };
+  addMeasureLabel(svg, width, height, label);
   const extent = d3.extent(data, d => d.year);
   const xDomain = extent[0] === extent[1] ? [extent[0] - .5, extent[1] + .5] : extent;
   const x = d3.scaleLinear().domain(xDomain).range([margin.left, width - margin.right]);
@@ -62,7 +63,7 @@ export function renderTrendChart(data, label) {
   const endpoints = [data[0], data.at(-1)].filter(Boolean);
   svg.selectAll(".endpoint-label").data(endpoints).join("text").attr("class", "endpoint-label")
     .attr("x", (d, i) => x(d.year) + (i === 0 ? 7 : -7))
-    .attr("y", d => y(d.value) - 10)
+    .attr("y", (d, i) => y(d.value) + (i === 0 ? -10 : 20))
     .attr("text-anchor", (_, i) => i === 0 ? "start" : "end")
     .text(d => `${d.year} · ${formatNumber(d.value)}`);
 }

@@ -88,7 +88,7 @@ A copy of the same CSV is stored in `website/data/` so the dashboard can run as 
 
 The dashboard is implemented with HTML, CSS, JavaScript and D3. It uses five navigation tabs:
 
-- **Overview** — KPI cards, annual trend and road-user composition;
+- **Overview** — enlarged annual trend and road-user composition charts with direct measure labels and readable annotations;
 - **People** — age-and-gender grouped bars and a First Nations dumbbell plot;
 - **Places** — state and territory ranking and a state-by-year heatmap;
 - **Findings** — hospitalisations and corrected bed-days shown side by side for all six questions; and
@@ -111,7 +111,7 @@ The chart choices match the analytical tasks:
 
 KNIME validation included Statistics, Value Counter, Histogram, Duplicate Row Filter, Formula Error checks and final view-count verification. No rows failed the hospitalisation formula check, and all five expected analytical views were present before export.
 
-A formative usability evaluation was completed with three participants. Tasks covered navigation, filters, the peak year, leading road-user category, corrected bed-days, age and gender, First Nations profiles, state comparisons and the counts-not-risk warning. The evaluation supported retaining the shared controls, tooltips and labels while keeping the measure explanations and interpretation limits prominent.
+A formative usability evaluation was completed with three classmates. Tasks covered navigation, filters, the peak year, leading road-user category, corrected bed-days, age and gender, First Nations profiles, state comparisons and the counts-not-risk warning. The observations led to larger chart text and legends, direct Hospitalisations or Bed-days labels beneath each chart, separated trend annotations and removal of the Overview summary-card row so the charts had more space. The measure explanations and interpretation limits remain prominent.
 
 ## Design book and presentation
 
