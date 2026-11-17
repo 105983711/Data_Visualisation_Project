@@ -1,10 +1,3 @@
-/*
- * Shared chart accessibility utilities.
- * OpenAI Codex assisted with this implementation. Accessibility decisions
- * follow the COS30045 chart-accessibility lecture and were reviewed against
- * keyboard, screen-reader, contrast and responsive-text requirements.
- */
-
 const tooltip = document.querySelector("#chart-tooltip");
 const announcer = document.querySelector("#tooltip-announcer");
 
